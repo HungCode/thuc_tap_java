@@ -1,1 +1,7 @@
-2018-03-13 11:18:58,338 529  [Thread-0] INFO  JsonReader - 68
+2018-03-19 12:56:54,727 693  [Thread-0] INFO  JsonReader - 62
+2018-03-19 12:57:07,222 13188 [Thread-0] DEBUG JsonReader - 62
+2018-03-19 12:57:23,662 29628 [Thread-0] DEBUG JsonReader - 62
+2018-03-19 12:57:36,048 42014 [Thread-0] DEBUG JsonReader - 62
+2018-03-19 12:57:48,504 54470 [Thread-0] DEBUG JsonReader - 62
+2018-03-19 12:58:00,729 66695 [Thread-0] DEBUG JsonReader - 62
+2018-03-19 12:58:13,006 78972 [Thread-0] DEBUG JsonReader - 62
