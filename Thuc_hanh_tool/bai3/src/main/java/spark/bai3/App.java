@@ -50,10 +50,5 @@ public class App {
 			System.out.println(Max);
 			return so_nguyen_to(Max);
 		});
-		Spark.post("/", (request, response) -> {
-		    // Create something
-			return "12345";
-		});
-
 	}
 }
