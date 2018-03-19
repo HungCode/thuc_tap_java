@@ -38,7 +38,7 @@
 						<manifest>
 							<addClasspath>true</addClasspath>
 							<classpathPrefix>lib/</classpathPrefix>
-							<mainClass>guava.test_bai4.PrimeDemo</mainClass>
+							<mainClass>spark.bai3.App</mainClass>
 						</manifest>
 					</archive>
 					<source>1.8</source>
