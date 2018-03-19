@@ -44,7 +44,7 @@
 						<manifest>
 							<addClasspath>true</addClasspath>
 							<classpathPrefix>lib/</classpathPrefix>
-							<mainClass>com.mypackage.MyClass</mainClass>
+							<mainClass>guava.test_bai4.PrimeDemo</mainClass>
 						</manifest>
 					</archive>
 					<source>1.8</source>
