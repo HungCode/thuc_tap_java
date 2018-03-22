@@ -1,0 +1,1124 @@
+<!doctype html>
+<html lang="vi">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"> 
+  <title>Dân trí</title> 
+  <meta name="robots" content="index,follow"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"> 
+  <meta name="MobileOptimized" content="100"> 
+  <meta name="apple-mobile-web-app-capable" content="yes"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <meta name="format-detection" content="date=no"> 
+  <meta name="format-detection" content="address=no"> 
+  <meta name="google-site-verification" content="WG87jlqyVlbofWb4B42Hsr8jnl7UIBrqJnsH9K0DkWI"> 
+  <meta property="fb:app_id" content="164035690775918"> 
+  <meta property="fb:pages" content="345033318906366"> 
+  <link href="https://static.dantricdn.com/storage/images/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link rel="apple-touch-icon" href="http://dantricdn.com/mob_images/dantri152.png"> 
+  <link rel="apple-touch-icon-precomposed" href="http://dantricdn.com/mob_images/dantri152.png"> 
+  <meta name="keywords" content="Dân trí, dantri, Việt Nam, Vietnam, net, báo, điện tử, vn, express, news, online, báo mạng, trực tuyến, tin tức, sự kiện, mới, nóng, nhanh, hot, video, clip, thời sự, xã hội, đời sống, quốc tế, thế giới, blog, pháp luật, vụ án, lao động, việc làm, kinh tế, kinh doanh, thể thao, bóng đá, tennis, văn hóa, giải trí, showbiz, sao Việt, tình yêu, giới tính, gia đình, chuyện lạ, xe, teen, tư vấn, giao lưu, công nghệ, di động, du học, tuyển sinh, du lịch, nhân ái, từ thiện, iphone, youtube, Trung Quốc, Mỹ, biển Đông"> 
+  <meta name="news_keywords" content="Dân trí, dantri, Việt Nam, Vietnam, net, báo, điện tử, vn, express, news, online, báo mạng, trực tuyến, tin tức, sự kiện, mới, nóng, nhanh, hot, video, clip, thời sự, xã hội, đời sống, quốc tế, thế giới, blog, pháp luật, vụ án, lao động, việc làm, kinh tế, kinh doanh, thể thao, bóng đá, tennis, văn hóa, giải trí, showbiz, sao Việt, tình yêu, giới tính, gia đình, chuyện lạ, xe, teen, tư vấn, giao lưu, công nghệ, di động, du học, tuyển sinh, du lịch, nhân ái, từ thiện, iphone, youtube, Trung Quốc, Mỹ, biển Đông"> 
+  <meta name="description" content="Tin tức, sự kiện Việt Nam và quốc tế nhanh, chính xác và cập nhật mới online 24h /7: Xã hội, Pháp luật, Kinh doanh, Giải trí, Thể thao, Đời sống, Sức khỏe, Giáo dục, Công nghệ, Văn hóa, Ôtô, Xe máy, Tình yêu, Giới tính, Nhịp sống trẻ, Chuyện lạ, Blog, Nhân ái, Bạn đọc, Việc làm…"> 
+  <link rel="canonical" href="http://dantri.com.vn/"> 
+  <link href="http://dantricdn.com/mob_css/dantri-home.05.02.2018.css" rel="stylesheet"> 
+  <script type="text/javascript" src="http://dantricdn.com/mob_js/dantri-home.03.04.2017.js" async></script> 
+  <script type="text/javascript">
+var _ADM_Channel = '%2fhome%2f';
+</script> 
+  <script async src="http://media1.admicro.vn/core/mbtk.js"></script> 
+  <script>
+    (function () {
+        var img = new Image();
+        img.src = 'https://lg1.logging.admicro.vn/ftest?url=' + encodeURIComponent(document.URL);
+    })();
+</script> 
+  <!-- Google Tag Manager --> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NQQ7DVS');</script> 
+  <!-- End Google Tag Manager --> 
+  <!-- Begin comScore Tag --> 
+  <script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "17793284" });
+    (function () {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+</script> 
+  <noscript> &lt;img src="http://b.scorecardresearch.com/p?c1=2&amp;amp;c2=17793284&amp;amp;cv=2.0&amp;amp;cj=1"&gt; 
+  </noscript> 
+  <!-- End comScore Tag --> 
+  <script type="text/javascript">
+        var admicroMAD = admicroMAD || {}; admicroMAD.unit = admicroMAD.unit || []; var JavaScript = { load: function (c, d) { var a = document.createElement("script"), b; a.setAttribute("src", c); a.async = !0; d && (a.onreadystatechange = a.onload = function () { b || d(); b = !0 }); document.getElementsByTagName("head")[0].appendChild(a) } }; JavaScript.load(("https:" == document.location.protocol ? "https:" : "http:") + "//media1.admicro.vn/core/mb_core.js", function () { admicroMAD.show = function (a) { var b = a.replace("adm-slot-", ""); admicroMAD.loaded = admicroMAD.loaded || []; ADM_CHECKER.in_array(b, admicroMAD.loaded) || (admicroMAD.loaded.push(b), a = document.createElement("script"), a.async = !0, a.type = "text/javascript", a.src = ("https:" == document.location.protocol ? "https:" : "http:") + "//media1.admicro.vn/ads_codes/mb_code_" + b + ".ads", b = document.getElementsByTagName("script")[0], b.parentNode.insertBefore(a, b)) }; if (1 <= admicroMAD.unit.length) for (var c = 0, d = admicroMAD.unit.length; c < d; c++) admicroMAD.unit[c]() });
+    </script> 
+ </head> 
+ <body> 
+  <div id="admwrapper"> 
+   <div class="ovh" style="height: 56px; margin-bottom: -1px"> 
+    <div id="header_menu" class="cf header_w"> 
+     <div class="cf header"> 
+      <h1><a title="Tin tức, sự kiện Việt Nam và quốc tế" class="fl logo" href="/">&nbsp;</a></h1> 
+      <a class="fr expand" href="javascript:void(0)">&nbsp;</a> 
+      <a class="fr search" href="/tim-kiem.htm">&nbsp;</a> 
+      <a id="btnMostView" class="fr hoting" href="/doc-nhieu.htm"></a> 
+      <a class="fr video" href="/video-page.htm">&nbsp;</a> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="ovh"> 
+    <div id="wrapper_mn" style="display: none"> 
+     <ul class="ovh menu_cat_main"> 
+      <li> <a href="/su-kien.htm"> <span><i class="sukien_ico">&nbsp;</i></span> <span class="txt">SỰ KIỆN</span> </a> </li> 
+      <li> <a href="/xa-hoi.htm"> <span><i class="xahoi_ico">&nbsp;</i></span> <span class="txt">XÃ HỘI</span> </a> </li> 
+      <li> <a href="/phap-luat.htm"> <span><i class="phapluat_ico">&nbsp;</i></span> <span class="txt">PHÁP LUẬT</span> </a> </li> 
+      <li> <a href="/the-gioi.htm"> <span><i class="thegioi_ico">&nbsp;</i></span> <span class="txt">THẾ GIỚI</span> </a> </li> 
+      <li> <a href="/the-thao.htm"> <span><i class="thethao_ico">&nbsp;</i></span> <span class="txt">THỂ THAO</span> </a> </li> 
+      <li> <a href="/giai-tri.htm"> <span><i class="giaitri_ico">&nbsp;</i></span> <span class="txt">GIẢI TRÍ</span> </a> </li> 
+      <li> <a href="/kinh-doanh.htm"> <span><i class="kinhdoanh_ico">&nbsp;</i></span> <span class="txt">KINH DOANH</span> </a> </li> 
+      <li> <a href="/suc-manh-so.htm"> <span><i class="computer_ico">&nbsp;</i></span> <span class="txt">Sức mạnh số</span> </a> </li> 
+      <li> <a href="/chuyen-la.htm"> <span><i class="book_ico">&nbsp;</i></span> <span class="txt">Chuyện lạ</span> </a> </li> 
+      <li> <a href="/blog.htm"> <span><i class="blog_ico">&nbsp;</i></span> <span class="txt">BLOG</span> </a> </li> 
+      <li> <a href="/video-page.htm"> <span><i class="giaitri_ico">&nbsp;</i></span> <span class="txt">Video</span> </a> </li> 
+      <li> <a href="/o-to-xe-may.htm"> <span><i class="xe_ico">&nbsp;</i></span> <span class="txt">Xe++</span> </a> </li> 
+     </ul> 
+     <div class="ovh menu_cat_sub"> 
+      <h4>Các Chuyên Mục Khác</h4> 
+      <ul> 
+       <li> <a href="/giao-duc-khuyen-hoc.htm">GIÁO DỤC</a> </li> 
+       <li> <a href="/khoa-hoc-cong-nghe.htm">KH - CN</a> </li> 
+       <li> <a href="/van-hoa.htm">VĂN HÓA</a> </li> 
+       <li> <a href="/tam-long-nhan-ai.htm">NHÂN ÁI</a> </li> 
+       <li> <a href="/nhip-song-tre.htm">NHỊP SỐNG TRẺ</a> </li> 
+       <li> <a href="/du-lich.htm">DU LỊCH</a> </li> 
+       <li> <a href="/tinh-yeu-gioi-tinh.htm">TÌNH YÊU</a> </li> 
+       <li> <a href="/tuyen-sinh.htm">TUYỂN SINH</a> </li> 
+       <li> <a href="/doi-song.htm">Đời sống</a> </li> 
+       <li> <a href="/suc-khoe.htm">SỨC KHỎE</a> </li> 
+       <li> <a href="/du-hoc.htm">DU HỌC</a> </li> 
+       <li> <a href="/ban-doc.htm">BẠN ĐỌC</a> </li> 
+       <li> <a href="/viec-lam.htm">VIỆC LÀM</a> </li> 
+       <li> <a href="/dien-dan.htm">DIỄN ĐÀN</a> </li> 
+      </ul> 
+     </div> 
+     <div class="cf allmost"> 
+      <a href="/doc-nhieu.htm">Xem Nhiều</a>&nbsp;&nbsp;
+      <a href="/binh-luan-nhieu.htm">Bình luận Nhiều</a> 
+     </div> 
+    </div> 
+    <div id="wrapper"> 
+     <div class="clearfix adv-box adv-top" id="adm-slot-7254"></div> 
+     <script type="text/javascript">'undefined' == typeof admicroMAD.show ? admicroMAD.unit.push(function () { admicroMAD.show('adm-slot-7254') }) : admicroMAD.show('adm-slot-7254');</script> 
+     <div class="scroll"> 
+      <div class="ovh nbh_w"> 
+       <div class="ovh top"> 
+        <a class="mrk-click" href="/chinh-tri/tong-bi-thu-doc-dieu-van-tien-biet-nguyen-thu-tuong-phan-van-khai-20180321220601213.htm" title="Lễ di quan nguyên Thủ tướng Phan Văn Khải" data-id="20180321220601213"> <img alt="Lễ di quan nguyên Thủ tướng Phan Văn Khải" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/22/294731278815640420283816902815698045632512o-crop-15216813906571464375344.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/22/294731278815640420283816902815698045632512o-crop-15216813906571464375344.jpg"> <h2>Lễ di quan nguyên Thủ tướng Phan Văn Khải&nbsp;<i class="icon_live"></i></h2> </a> 
+        <p>(Dân trí) - Linh cữu nguyên Thủ tướng Phan Văn Khải được rước ra sảnh lớn Hội trường Thống Nhất. Đoàn đưa tang đưa ông về với quê nhà xã Tân Thông Hội, huyện Củ Chi, TPHCM. Dọc tuyến đường từ Dinh Độc Lập về Củ Chi, người dân tập trung chờ tiễn biệt nguyên Thủ tướng.</p> 
+       </div> 
+       <ul class="ovh top_3"> 
+        <li> <h3><a class="mrk-click" data-id="20180321215935882" href="/the-gioi/ong-trump-noi-gian-vi-lo-chuyen-duoc-co-van-khong-chuc-mung-ong-putin-20180321215935882.htm" title="Ông Trump nổi giận vì lộ chuyện được cố vấn không chúc mừng ông Putin">Ông Trump nổi giận vì lộ chuyện được cố vấn không chúc mừng ông Putin&nbsp;<i class="icon_autovideo"></i></a></h3> <a data-id="20180321215935882" href="/the-gioi/ong-trump-noi-gian-vi-lo-chuyen-duoc-co-van-khong-chuc-mung-ong-putin-20180321215935882.htm" title="Ông Trump nổi giận vì lộ chuyện được cố vấn không chúc mừng ông Putin"><img alt="Ông Trump nổi giận vì lộ chuyện được cố vấn không chúc mừng ông Putin" class="lazy" src="http://dantricdn.com/zoom/32_20/2018/3/21/trump-1521644297245991681526.jpg" data-src="http://dantricdn.com/zoom/320_200/2018/3/21/trump-1521644297245991681526.jpg"></a> <p class="collapse_txt">(Dân trí) - Tổng thống Mỹ Donald Trump đã vô cùng tức giận sau khi có thông tin rò rỉ <a href="javascript:void(0)" class="toggle_txt_func" onclick="expand_txt(this)">+</a></p> <p class="expand_txt">(Dân trí) - Tổng thống Mỹ Donald Trump đã vô cùng tức giận sau khi có thông tin rò rỉ nói rằng các cố vấn an ninh đã khuyên ông không chúc mừng Tổng thống Nga Vladimir Putin tái đắc cử, Business Insider đưa tin ngày 21/3. <a href="javascript:void(0)" class="toggle_txt_func" onclick="collapse_txt(this)">-</a></p> </li> 
+        <li> <h3><a class="mrk-click" data-id="20180321174234842" href="/kinh-doanh/do-khoc-do-cuoi-canh-mua-hang-qua-mang-ke-ban-nguoi-mua-deu-meo-mat-20180321174234842.htm" title="Những chuyện &quot;dở khóc, dở cười&quot; khó tin khi mua hàng qua mạng">Những chuyện "dở khóc, dở cười" khó tin khi mua hàng qua mạng</a></h3> <a data-id="20180321174234842" href="/kinh-doanh/do-khoc-do-cuoi-canh-mua-hang-qua-mang-ke-ban-nguoi-mua-deu-meo-mat-20180321174234842.htm" title="Những chuyện &quot;dở khóc, dở cười&quot; khó tin khi mua hàng qua mạng"><img alt="Những chuyện &quot;dở khóc, dở cười&quot; khó tin khi mua hàng qua mạng" class="lazy" src="http://dantricdn.com/zoom/32_20/2018/3/21/mua-hang-online-11-crop-15216241963042144156932.jpg" data-src="http://dantricdn.com/zoom/320_200/2018/3/21/mua-hang-online-11-crop-15216241963042144156932.jpg"></a> <p class="collapse_txt">(Dân trí) - Thương mại điện tử đang phát triển rất mạnh không chỉ trên thế giới mà còn đang <a href="javascript:void(0)" class="toggle_txt_func" onclick="expand_txt(this)">+</a></p> <p class="expand_txt">(Dân trí) - Thương mại điện tử đang phát triển rất mạnh không chỉ trên thế giới mà còn đang rất rầm rộ ở Việt Nam. Tuy nhiên, việc mua hàng qua mạng hiện vẫn chưa thực sự chiếm được lòng tin của người tiêu dùng. Nhưng ở chiều ngược lại, nhiều khách hàng cũng không tôn trọng người bán hàng. <a href="javascript:void(0)" class="toggle_txt_func" onclick="collapse_txt(this)">-</a></p> </li> 
+        <li> <h3><a class="mrk-click" data-id="20180322040428328" href="/blog/lam-nguoi-liem-chinh-kho-den-vay-sao-20180322040428328.htm" title="Làm người “liêm chính” khó đến vậy sao?">Làm người “liêm chính” khó đến vậy sao?</a></h3> <a data-id="20180322040428328" href="/blog/lam-nguoi-liem-chinh-kho-den-vay-sao-20180322040428328.htm" title="Làm người “liêm chính” khó đến vậy sao?"><img alt="Làm người “liêm chính” khó đến vậy sao?" class="lazy" src="http://dantricdn.com/zoom/32_20/2018/3/22/mliem-chinh-1521665992896591248852.jpg" data-src="http://dantricdn.com/zoom/320_200/2018/3/22/mliem-chinh-1521665992896591248852.jpg"></a> <p class="collapse_txt">(Dân trí) - Một khảo sát nhanh thực hiện trong ngày 20/3 đối với các khách mời tại Hội thảo <a href="javascript:void(0)" class="toggle_txt_func" onclick="expand_txt(this)">+</a></p> <p class="expand_txt">(Dân trí) - Một khảo sát nhanh thực hiện trong ngày 20/3 đối với các khách mời tại Hội thảo Kinh tế Việt Nam thường niên lần thứ 10 do Thời Báo Kinh tế Việt Nam tổ chức cho ra kết quả: “Liêm chính” là cặp từ “khó thực hiện nhất” trong số các cặp từ thể hiện phương châm hoạt động của năm 2018. <a href="javascript:void(0)" class="toggle_txt_func" onclick="collapse_txt(this)">-</a></p> </li> 
+       </ul> 
+      </div> 
+      <div class="ovh ttsk_w"> 
+       <div class="ovh ttsk-head">
+        TIN TỨC - SỰ KIỆN
+       </div> 
+       <ul> 
+        <li> <a href="/su-kien/hom-nay-tong-thong-han-quoc-moon-jea-in-va-phu-nhan-toi-viet-nam-2018032206441563.htm" title="Hôm nay, Tổng thống Hàn Quốc Moon Jea In và Phu nhân tới Việt Nam"> <span>1</span> <h3>Hôm nay, Tổng thống Hàn Quốc Moon Jea In và Phu nhân tới Việt Nam</h3> </a> </li> 
+        <li> <a href="/su-kien/thu-tuong-nguyen-xuan-phuc-chinh-quoc-ky-phu-tren-linh-cuu-ong-phan-van-khai-20180321183827726.htm" title="Thủ tướng Nguyễn Xuân Phúc chỉnh quốc kỳ phủ trên linh cữu ông Phan Văn Khải"> <span>2</span> <h3>Thủ tướng Nguyễn Xuân Phúc chỉnh quốc kỳ phủ trên linh cữu ông Phan Văn Khải&nbsp;<i class="icon_img"></i></h3> </a> </li> 
+        <li> <a href="/su-kien/tuoi-tre-cuong-nhiet-cua-the-he-thanh-nien-lien-xo-20180322063327238.htm" title="Tuổi trẻ cuồng nhiệt của thế hệ thanh niên Liên Xô"> <span>3</span> <h3>Tuổi trẻ cuồng nhiệt của thế hệ thanh niên Liên Xô&nbsp;<i class="icon_img"></i></h3> </a> </li> 
+        <li> <a href="/su-kien/vu-3-nguoi-tu-vong-trong-xe-mercedes-nguoi-me-van-om-con-trai-trong-long-20180321215434399.htm" title="Vụ 3 người tử vong trong xe Mercedes: Người mẹ vẫn ôm con trai trong lòng!"> <span>4</span> <h3>Vụ 3 người tử vong trong xe Mercedes: Người mẹ vẫn ôm con trai trong lòng!</h3> </a> </li> 
+        <li> <a href="/su-kien/lanh-dao-pc67-len-tieng-ve-viec-csgt-cat-lai-khong-chap-nhan-bang-lai-xe-quoc-te-20180322065532766.htm" title="Lãnh đạo PC67 lên tiếng về việc CSGT Cát Lái không chấp nhận bằng lái xe quốc tế"> <span>5</span> <h3>Lãnh đạo PC67 lên tiếng về việc CSGT Cát Lái không chấp nhận bằng lái xe quốc tế</h3> </a> </li> 
+        <li> <a href="/su-kien/bau-duc-bau-tu-va-dau-an-voi-nen-bong-da-viet-nam-20180321231410522.htm" title="Bầu Đức, bầu Tú và dấu ấn với nền bóng đá Việt Nam"> <span>6</span> <h3>Bầu Đức, bầu Tú và dấu ấn với nền bóng đá Việt Nam</h3> </a> </li> 
+        <li> <a href="/su-kien/thanh-hoa-hop-dot-xuat-vu-lanh-dao-tinh-bi-don-co-bo-nhi-201803212043202.htm" title="Thanh Hóa họp đột xuất vụ lãnh đạo tỉnh bị đồn có bồ nhí"> <span>7</span> <h3>Thanh Hóa họp đột xuất vụ lãnh đạo tỉnh bị đồn có bồ nhí</h3> </a> </li> 
+        <li> <a href="/su-kien/tinh-tiet-moi-trong-vu-xet-xu-nghi-pham-thieu-song-co-gai-viet-tai-anh-20180322063818151.htm" title="Tình tiết mới trong vụ xét xử nghi phạm thiêu sống cô gái Việt tại Anh"> <span>8</span> <h3>Tình tiết mới trong vụ xét xử nghi phạm thiêu sống cô gái Việt tại Anh</h3> </a> </li> 
+        <li> <a href="/su-kien/tu-hieu-dong-dung-tro-ban-de-ha-cao-thu-vinh-xuan-20180322071355451.htm" title="Từ Hiểu Đông dùng “trò bẩn” để hạ cao thủ Vịnh Xuân?"> <span>9</span> <h3>Từ Hiểu Đông dùng “trò bẩn” để hạ cao thủ Vịnh Xuân?&nbsp;<i class="icon_autovideo"></i></h3> </a> </li> 
+        <li> <a href="/su-kien/cong-ty-tham-dinh-gia-giai-trinh-the-nao-ve-vu-mobifone-mua-avg-20180321193720223.htm" title="Công ty thẩm định giá giải trình thế nào về vụ Mobifone mua AVG?"> <span>10</span> <h3>Công ty thẩm định giá giải trình thế nào về vụ Mobifone mua AVG?</h3> </a> </li> 
+       </ul> 
+      </div> 
+      <div class="cf cathv_w"> 
+       <div class="ovh cathv_w-head"> 
+        <a href="/video-page.htm" class="fl"> <i class="icon_media">&nbsp;</i>&nbsp;&nbsp;Video dân trí </a> 
+       </div> 
+       <div class="cf cathv_ct"> 
+        <div class="ovh top1"> 
+         <a href="/video/phut-mac-niem-tai-le-truy-dieu-nguyen-thu-tuong-phan-van-khai-78053.htm" title="Phút mặc niệm tại Lễ truy điệu nguyên Thủ tướng Phan Văn Khải"> <img alt="Phút mặc niệm tại Lễ truy điệu nguyên Thủ tướng Phan Văn Khải" class="lazy" src="http://video-thumbs.mediacdn.vn/zoom/48_30/dantri/q9iw9pbngtbxmccfwx7pjac6ktof3w/2018/03/22/plugin-video-1521679221-1521679412724-58e27.jpg" data-src="http://video-thumbs.mediacdn.vn/zoom/480_300/dantri/q9iw9pbngtbxmccfwx7pjac6ktof3w/2018/03/22/plugin-video-1521679221-1521679412724-58e27.jpg"> <span class="video_ico"></span> </a> 
+         <a class="ovh title" href="/video/phut-mac-niem-tai-le-truy-dieu-nguyen-thu-tuong-phan-van-khai-78053.htm" title="Phút mặc niệm tại Lễ truy điệu nguyên Thủ tướng Phan Văn Khải"> <h3>Phút mặc niệm tại Lễ truy điệu nguyên Thủ tướng Phan Văn Khải</h3> </a> 
+        </div> 
+        <div class="ovh top2"> 
+         <a class="ovh fl" href="/video/csgt-cat-lai-bang-lai-quoc-te-vo-gia-tri-o-viet-nam-78046.htm" title="CSGT Cát Lái: &quot;Bằng lái quốc tế vô giá trị ở Việt Nam&quot;"> <span> <img alt="CSGT Cát Lái: &quot;Bằng lái quốc tế vô giá trị ở Việt Nam&quot;" class="lazy" src="http://video-thumbs.mediacdn.vn/zoom/32_20/dantri/a4e5966e0c/2018/03/22/sequence-02-1521671784064.jpg" data-src="http://video-thumbs.mediacdn.vn/zoom/320_200/dantri/a4e5966e0c/2018/03/22/sequence-02-1521671784064.jpg"> <i class="video_ico"></i> </span> <h3>CSGT Cát Lái: "Bằng lái quốc tế vô giá trị ở Việt Nam"</h3> </a> 
+         <a class="ovh fr" href="/video/ong-trump-chuc-mung-ong-putin-tai-dac-cu-sau-binh-luan-cua-dien-kremlin-78010.htm" title="Ông Trump chúc mừng ông Putin tái đắc cử sau bình luận của Điện Kremlin"> <span> <img alt="Ông Trump chúc mừng ông Putin tái đắc cử sau bình luận của Điện Kremlin" class="lazy" src="http://video-thumbs.mediacdn.vn/zoom/32_20/dantri/zxkyauia1lctiej2oexonndj4ukco5/2018/03/21/u78sj32tssa-50657_thumb2.jpg" data-src="http://video-thumbs.mediacdn.vn/zoom/320_200/dantri/zxkyauia1lctiej2oexonndj4ukco5/2018/03/21/u78sj32tssa-50657_thumb2.jpg"> <i class="video_ico"></i> </span> <h3>Ông Trump chúc mừng ông Putin tái đắc cử sau bình luận của Điện Kremlin</h3> </a> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="clearfix adv-box adv-magazine" id="adm-slot-35401"></div> 
+      <script type="text/javascript">'undefined' == typeof admicroMAD.show ? admicroMAD.unit.push(function () { admicroMAD.show('adm-slot-35401') }) : admicroMAD.show('adm-slot-35401');</script> 
+      <div class="ovh cath"> 
+       <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/xa-hoi.htm" title="Xã hội" style="color: #0067d8">Xã hội</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+       <div class="ovh cath-sub"> 
+        <ul class="fl"> 
+         <li><a href="/xa-hoi/chinh-tri.htm" title="Chính trị">Chính trị</a></li> 
+         <li><a href="/xa-hoi/phong-su-ky-su.htm" title="Phóng sự-Ký sự">Phóng sự-Ký sự</a></li> 
+         <li><a href="/xa-hoi/giao-thong.htm" title="Giao thông">Giao thông</a></li> 
+        </ul> 
+        <ul class="fr"> 
+         <li><a href="/xa-hoi/ho-so.htm" title="Hồ sơ">Hồ sơ</a></li> 
+         <li><a href="/xa-hoi/moi-truong.htm" title="Môi trường">Môi trường</a></li> 
+        </ul> 
+       </div> 
+       <div class="ovh top1"> 
+        <a href="/xa-hoi/vu-3-nguoi-tu-vong-trong-xe-mercedes-nguoi-me-van-om-con-trai-trong-long-20180321215434399.htm" title="Vụ 3 người tử vong trong xe Mercedes: Người mẹ vẫn ôm con trai trong lòng!"> <img alt="Vụ 3 người tử vong trong xe Mercedes: Người mẹ vẫn ôm con trai trong lòng!" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/20/phat-hien-thi-the-1521552392325693169063.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/20/phat-hien-thi-the-1521552392325693169063.jpg"> <h3>Vụ 3 người tử vong trong xe Mercedes: Người mẹ vẫn ôm con trai trong lòng!</h3> </a> 
+        <div class="ovh time">
+         <span class="clock_ico">&nbsp;</span>&nbsp;
+         <i>22/03/2018 00:10</i>
+        </div> 
+       </div> 
+       <ul class="ovh top2"> 
+        <li> <a href="/xa-hoi/lanh-dao-pc67-len-tieng-ve-viec-csgt-cat-lai-khong-chap-nhan-bang-lai-xe-quoc-te-20180322065532766.htm" title="Lãnh đạo PC67 lên tiếng về việc CSGT Cát Lái không chấp nhận bằng lái xe quốc tế" data-type="0"> <img alt="Lãnh đạo PC67 lên tiếng về việc CSGT Cát Lái không chấp nhận bằng lái xe quốc tế" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/22/1-15216721134131621540283.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/22/1-15216721134131621540283.jpg"> <h3>Lãnh đạo PC67 lên tiếng về việc CSGT Cát Lái không chấp nhận bằng lái xe quốc tế</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 07:11</i>
+          </div> </a> </li> 
+        <li> <a href="/chinh-tri/hom-nay-tong-thong-han-quoc-moon-jea-in-va-phu-nhan-toi-viet-nam-2018032206441563.htm" title="Hôm nay, Tổng thống Hàn Quốc Moon Jea In và Phu nhân tới Việt Nam" data-type="0"> <img alt="Hôm nay, Tổng thống Hàn Quốc Moon Jea In và Phu nhân tới Việt Nam" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/tt-han-quoc--1521647416024510294197.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/tt-han-quoc--1521647416024510294197.jpg"> <h3>Hôm nay, Tổng thống Hàn Quốc Moon Jea In và Phu nhân tới Việt Nam</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 06:52</i>
+          </div> </a> </li> 
+        <li> <a href="/chinh-tri/tong-bi-thu-doc-dieu-van-tien-biet-nguyen-thu-tuong-phan-van-khai-20180321220601213.htm" title="Lễ di quan nguyên Thủ tướng Phan Văn Khải" data-type="10"> <img alt="Lễ di quan nguyên Thủ tướng Phan Văn Khải" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/22/294731278815640420283816902815698045632512o-crop-15216813906571464375344.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/22/294731278815640420283816902815698045632512o-crop-15216813906571464375344.jpg"> <h3>Lễ di quan nguyên Thủ tướng Phan Văn Khải&nbsp;<i class="icon_live"></i></h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 05:00</i>
+          </div> </a> </li> 
+       </ul> 
+      </div> 
+      <div class="ovh cath"> 
+       <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/the-gioi.htm" title="Thế giới" style="color: #0067d8">Thế giới</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+       <div class="ovh cath-sub"> 
+        <ul class="fl"> 
+         <li><a href="/the-gioi/chau-a.htm" title="Châu Á">Châu Á</a></li> 
+         <li><a href="/the-gioi/eu-nga.htm" title="EU &amp; Nga">EU &amp; Nga</a></li> 
+         <li><a href="/the-gioi/chau-my.htm" title="Châu Mỹ">Châu Mỹ</a></li> 
+        </ul> 
+        <ul class="fr"> 
+         <li><a href="/the-gioi/diem-nong.htm" title="Điểm nóng">Điểm nóng</a></li> 
+         <li><a href="/the-gioi/tu-lieu.htm" title="Tư liệu">Tư liệu</a></li> 
+         <li><a href="/the-gioi/kieu-bao.htm" title="Kiều bào">Kiều bào</a></li> 
+        </ul> 
+       </div> 
+       <div class="ovh top1"> 
+        <a href="/the-gioi/cuu-tong-thong-phap-sarkozy-chinh-thuc-bi-dieu-tra-20180322073555655.htm" title="Cựu Tổng thống Pháp Sarkozy chính thức bị điều tra"> <img alt="Cựu Tổng thống Pháp Sarkozy chính thức bị điều tra" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/22/phap-1521678605125851373883.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/22/phap-1521678605125851373883.jpg"> <h3>Cựu Tổng thống Pháp Sarkozy chính thức bị điều tra</h3> </a> 
+        <div class="ovh time">
+         <span class="clock_ico">&nbsp;</span>&nbsp;
+         <i>22/03/2018 07:38</i>
+        </div> 
+       </div> 
+       <ul class="ovh top2"> 
+        <li> <a href="/the-gioi/my-can-nhac-trung-phat-nga-vu-cuu-diep-vien-nghi-bi-dau-doc-20180322080525776.htm" title="Mỹ cân nhắc trừng phạt Nga vụ cựu điệp viên nghi bị đầu độc" data-type="0"> <img alt="Mỹ cân nhắc trừng phạt Nga vụ cựu điệp viên nghi bị đầu độc" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/22/diep-vien-nga-1521678537231155930394.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/22/diep-vien-nga-1521678537231155930394.jpg"> <h3>Mỹ cân nhắc trừng phạt Nga vụ cựu điệp viên nghi bị đầu độc</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 08:17</i>
+          </div> </a> </li> 
+        <li> <a href="/the-gioi/nha-trang-quyet-tim-ra-nguoi-ro-ri-lum-xum-quanh-cuoc-goi-chuc-mung-ong-putin-20180322073103167.htm" title="Nhà Trắng quyết tìm ra người rò rỉ lùm xùm quanh cuộc gọi chúc mừng ông Putin" data-type="0"> <img alt="Nhà Trắng quyết tìm ra người rò rỉ lùm xùm quanh cuộc gọi chúc mừng ông Putin" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/22/trump-putin-15216785780791786059759.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/22/trump-putin-15216785780791786059759.jpg"> <h3>Nhà Trắng quyết tìm ra người rò rỉ lùm xùm quanh cuộc gọi chúc mừng ông Putin</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 07:35</i>
+          </div> </a> </li> 
+        <li> <a href="/the-gioi/tinh-tiet-moi-trong-vu-xet-xu-nghi-pham-thieu-song-co-gai-viet-tai-anh-20180322063818151.htm" title="Tình tiết mới trong vụ xét xử nghi phạm thiêu sống cô gái Việt tại Anh" data-type="0"> <img alt="Tình tiết mới trong vụ xét xử nghi phạm thiêu sống cô gái Việt tại Anh" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/quyen-1-1521642949381673862472.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/quyen-1-1521642949381673862472.jpg"> <h3>Tình tiết mới trong vụ xét xử nghi phạm thiêu sống cô gái Việt tại Anh</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 06:57</i>
+          </div> </a> </li> 
+       </ul> 
+      </div> 
+      <div class="ovh cath"> 
+       <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/the-thao.htm" title="Thể thao" style="color: #0067d8">Thể thao</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+       <div class="ovh cath-sub"> 
+        <ul class="fl"> 
+         <li><a href="/the-thao/the-thao-trong-nuoc.htm" title="Thể thao trong nước">Thể thao trong nước</a></li> 
+         <li><a href="/the-thao/the-thao-quoc-te.htm" title="Thể thao quốc tế">Thể thao quốc tế</a></li> 
+         <li><a href="/the-thao/bong-da-trong-nuoc.htm" title="Bóng đá trong nước">Bóng đá trong nước</a></li> 
+         <li><a href="/the-thao/bong-da-chau-au.htm" title="Bóng đá châu Âu">Bóng đá châu Âu</a></li> 
+        </ul> 
+        <ul class="fr"> 
+         <li><a href="/the-thao/bong-da-anh.htm" title="Bóng đá Anh">Bóng đá Anh</a></li> 
+         <li><a href="/the-thao/bong-da-tbn.htm" title="Bóng đá TBN">Bóng đá TBN</a></li> 
+         <li><a href="/the-thao/tennis.htm" title="Tennis">Tennis</a></li> 
+         <li><a href="/the-thao/co-vua.htm" title="Cờ vua">Cờ vua</a></li> 
+        </ul> 
+       </div> 
+       <div class="ovh top1"> 
+        <a href="/the-thao/alexis-sanchez-noi-gi-sau-khoi-dau-te-hai-o-mu-20180322071519621.htm" title="Alexis Sanchez nói gì sau khởi đầu tệ hại ở MU?"> <img alt="Alexis Sanchez nói gì sau khởi đầu tệ hại ở MU?" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/22/sanchez130318-15216607849081527124367.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/22/sanchez130318-15216607849081527124367.jpg"> <h3>Alexis Sanchez nói gì sau khởi đầu tệ hại ở MU?</h3> </a> 
+        <div class="ovh time">
+         <span class="clock_ico">&nbsp;</span>&nbsp;
+         <i>22/03/2018 07:15</i>
+        </div> 
+       </div> 
+       <ul class="ovh top2"> 
+        <li> <a href="/the-thao/tu-hieu-dong-dung-tro-ban-de-ha-cao-thu-vinh-xuan-20180322071355451.htm" title="Từ Hiểu Đông dùng “trò bẩn” để hạ cao thủ Vịnh Xuân?" data-type="13"> <img alt="Từ Hiểu Đông dùng “trò bẩn” để hạ cao thủ Vịnh Xuân?" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/22/dypv0mtx0aet42c-1521661495111185551760.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/22/dypv0mtx0aet42c-1521661495111185551760.jpg"> <h3>Từ Hiểu Đông dùng “trò bẩn” để hạ cao thủ Vịnh Xuân?&nbsp;<i class="icon_autovideo"></i></h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 07:14</i>
+          </div> </a> </li> 
+        <li> <a href="/the-thao/bau-duc-bau-tu-va-dau-an-voi-nen-bong-da-viet-nam-20180321231410522.htm" title="Bầu Đức, bầu Tú và dấu ấn với nền bóng đá Việt Nam" data-type="0"> <img alt="Bầu Đức, bầu Tú và dấu ấn với nền bóng đá Việt Nam" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/ductu-1521648658686856000938.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/ductu-1521648658686856000938.jpg"> <h3>Bầu Đức, bầu Tú và dấu ấn với nền bóng đá Việt Nam</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 06:00</i>
+          </div> </a> </li> 
+        <li> <a href="/the-thao/messi-gay-sot-voi-hinh-anh-nguoi-bo-guong-mau-20180321230909232.htm" title="Messi gây sốt với hình ảnh người bố gương mẫu" data-type="0"> <img alt="Messi gây sốt với hình ảnh người bố gương mẫu" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/photo-1-1521648444680745415446.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/photo-1-1521648444680745415446.jpg"> <h3>Messi gây sốt với hình ảnh người bố gương mẫu</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 00:11</i>
+          </div> </a> </li> 
+       </ul> 
+      </div> 
+      <div class="ovh cath"> 
+       <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/giao-duc-khuyen-hoc.htm" title="Giáo dục - Khuyến học" style="color: #0067d8">Giáo dục - Khuyến học</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+       <div class="ovh cath-sub"> 
+        <ul class="fl"> 
+         <li><a href="/giao-duc-khuyen-hoc/tin-tuyen-sinh.htm" title="Tin tuyển sinh">Tin tuyển sinh</a></li> 
+         <li><a href="/giao-duc-khuyen-hoc/khuyen-hoc.htm" title="Khuyến học">Khuyến học</a></li> 
+        </ul> 
+        <ul class="fr"> 
+         <li><a href="/giao-duc-khuyen-hoc/guong-sang.htm" title="Gương sáng">Gương sáng</a></li> 
+         <li><a href="/giao-duc-khuyen-hoc/ielts-cung-scots.htm" title="IELTS cùng Scots">IELTS cùng Scots</a></li> 
+        </ul> 
+       </div> 
+       <div class="ovh top1"> 
+        <a href="/giao-duc-khuyen-hoc/giao-vien-tiep-tuc-duoc-cuoi-ngua-xem-hoa-20180321214412139.htm" title="Giáo viên tiếp tục được “cưỡi ngựa xem hoa”?"> <img alt="Giáo viên tiếp tục được “cưỡi ngựa xem hoa”?" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/21/day-hoc-tich-cuc--1521643592257350196842.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/21/day-hoc-tich-cuc--1521643592257350196842.jpg"> <h3>Giáo viên tiếp tục được “cưỡi ngựa xem hoa”?</h3> </a> 
+        <div class="ovh time">
+         <span class="clock_ico">&nbsp;</span>&nbsp;
+         <i>22/03/2018 05:03</i>
+        </div> 
+       </div> 
+       <ul class="ovh top2"> 
+        <li> <a href="/giao-duc-khuyen-hoc/tuyen-sinh-2018-xuat-hien-nganh-hoc-hot-actuary-20180322080146722.htm" title="Tuyển sinh 2018: Xuất hiện ngành học &quot;hót&quot; Actuary" data-type="0"> <img alt="Tuyển sinh 2018: Xuất hiện ngành học &quot;hót&quot; Actuary" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/22/kinh-te-152168037056717221587.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/22/kinh-te-152168037056717221587.jpg"> <h3>Tuyển sinh 2018: Xuất hiện ngành học "hót" Actuary</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 08:00</i>
+          </div> </a> </li> 
+        <li> <a href="/giao-duc-khuyen-hoc/cai-thien-vi-tri-tren-bang-xep-hang-toan-cau-giai-phap-nao-cho-viet-nam-20180322065850773.htm" title="Cải thiện vị trí trên bảng xếp hạng toàn cầu, giải pháp nào cho Việt Nam?" data-type="0"> <img alt="Cải thiện vị trí trên bảng xếp hạng toàn cầu, giải pháp nào cho Việt Nam?" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/xephang2-152165032301498647195.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/xephang2-152165032301498647195.jpg"> <h3>Cải thiện vị trí trên bảng xếp hạng toàn cầu, giải pháp nào cho Việt Nam?</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 07:45</i>
+          </div> </a> </li> 
+        <li> <a href="/giao-duc-khuyen-hoc/nuoi-lon-dat-khuyen-hoc-giup-ban-ngheo-den-truong-20180321215820707.htm" title="Nuôi lợn đất khuyến học, giúp bạn nghèo đến trường" data-type="0"> <img alt="Nuôi lợn đất khuyến học, giúp bạn nghèo đến trường" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/khuyenhoc4-1521642432008755011549.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/khuyenhoc4-1521642432008755011549.jpg"> <h3>Nuôi lợn đất khuyến học, giúp bạn nghèo đến trường</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 06:00</i>
+          </div> </a> </li> 
+       </ul> 
+      </div> 
+      <div class="ovh cath"> 
+       <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/tam-long-nhan-ai.htm" title="Tấm lòng nhân ái" style="color: #0067d8">Tấm lòng nhân ái</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+       <div class="ovh cath-sub"> 
+        <ul class="fl"> 
+         <li><a href="/tam-long-nhan-ai/danh-sach-ung-ho.htm" title="Danh sách ủng hộ">Danh sách ủng hộ</a></li> 
+         <li><a href="/tam-long-nhan-ai/danh-sach-ket-chuyen.htm" title="Danh sách kết chuyển">Danh sách kết chuyển</a></li> 
+        </ul> 
+        <ul class="fr"> 
+         <li><a href="/tam-long-nhan-ai/hoan-canh.htm" title="Hoàn cảnh">Hoàn cảnh</a></li> 
+        </ul> 
+       </div> 
+       <div class="ovh top1"> 
+        <a href="/tam-long-nhan-ai/be-mang-trong-benh-lay-lat-theo-cha-nuoi-me-dang-nguy-kich-20180321021828266.htm" title="Bé mang trọng bệnh lay lắt theo cha nuôi mẹ đang nguy kịch"> <img alt="Bé mang trọng bệnh lay lắt theo cha nuôi mẹ đang nguy kịch" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/20/29003637101564721820295891281755533n-15215397188021674121933.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/20/29003637101564721820295891281755533n-15215397188021674121933.jpg"> <h3>Bé mang trọng bệnh lay lắt theo cha nuôi mẹ đang nguy kịch</h3> </a> 
+        <div class="ovh time">
+         <span class="clock_ico">&nbsp;</span>&nbsp;
+         <i>22/03/2018 06:52</i>
+        </div> 
+       </div> 
+       <ul class="ovh top2"> 
+        <li> <a href="/tam-long-nhan-ai/hon-104-trieu-den-voi-be-gai-hieu-hoc-mac-ung-thu-hach-2018032111344024.htm" title="Hơn 104 triệu đến với bé gái hiếu học mắc ung thư hạch" data-type="0"> <img alt="Hơn 104 triệu đến với bé gái hiếu học mắc ung thư hạch" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/20/dsc1846-1521528336186517626485.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/20/dsc1846-1521528336186517626485.jpg"> <h3>Hơn 104 triệu đến với bé gái hiếu học mắc ung thư hạch</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>21/03/2018 11:35</i>
+          </div> </a> </li> 
+        <li> <a href="/tam-long-nhan-ai/nu-cuoi-tro-lai-cua-chang-trai-sinh-vien-truong-bao-chi-bi-benh-tim-2018032111303404.htm" title="Nụ cười trở lại của chàng trai sinh viên trường Báo chí bị bệnh tim" data-type="0"> <img alt="Nụ cười trở lại của chàng trai sinh viên trường Báo chí bị bệnh tim" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/dsc0334-15215985473501646699696.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/dsc0334-15215985473501646699696.jpg"> <h3>Nụ cười trở lại của chàng trai sinh viên trường Báo chí bị bệnh tim</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>21/03/2018 11:33</i>
+          </div> </a> </li> 
+        <li> <a href="/tam-long-nhan-ai/nu-sinh-8-nam-chong-choi-voi-benh-tat-mong-co-tien-phau-thuat-khoi-u-tren-mat-20180321064738524.htm" title="Nữ sinh 8 năm chống chọi với bệnh tật mong có tiền phẫu thuật khối u trên mặt" data-type="0"> <img alt="Nữ sinh 8 năm chống chọi với bệnh tật mong có tiền phẫu thuật khối u trên mặt" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/18/hinh-1-1521383867976154255717.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/18/hinh-1-1521383867976154255717.jpg"> <h3>Nữ sinh 8 năm chống chọi với bệnh tật mong có tiền phẫu thuật khối u trên mặt</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>21/03/2018 06:50</i>
+          </div> </a> </li> 
+       </ul> 
+      </div> 
+      <div class="ovh cath"> 
+       <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/kinh-doanh.htm" title="Kinh doanh" style="color: #0067d8">Kinh doanh</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+       <div class="ovh cath-sub"> 
+        <ul class="fl"> 
+         <li><a href="/kinh-doanh/tai-chinh-dau-tu.htm" title="Tài chính - Đầu tư">Tài chính - Đầu tư</a></li> 
+         <li><a href="/kinh-doanh/thi-truong.htm" title="Thị trường">Thị trường</a></li> 
+         <li><a href="/kinh-doanh/doanh-nghiep.htm" title="Doanh nghiệp">Doanh nghiệp</a></li> 
+         <li><a href="/kinh-doanh/khoi-nghiep.htm" title="Khởi nghiệp">Khởi nghiệp</a></li> 
+        </ul> 
+        <ul class="fr"> 
+         <li><a href="/kinh-doanh/bao-ve-ntd.htm" title="Bảo vệ NTD">Bảo vệ NTD</a></li> 
+         <li><a href="/kinh-doanh/quoc-te.htm" title="Quốc tế">Quốc tế</a></li> 
+         <li><a href="/kinh-doanh/nha-dat.htm" title="Nhà đất">Nhà đất</a></li> 
+        </ul> 
+       </div> 
+       <div class="ovh top1"> 
+        <a href="/kinh-doanh/doanh-nghiep-o-to-chen-chan-xin-giay-phep-nhap-khau-20180322001959737.htm" title="Doanh nghiệp ô tô chen chân xin giấy phép nhập khẩu"> <img alt="Doanh nghiệp ô tô chen chân xin giấy phép nhập khẩu" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/22/otonk1-1521652584404825452187.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/22/otonk1-1521652584404825452187.jpg"> <h3>Doanh nghiệp ô tô chen chân xin giấy phép nhập khẩu</h3> </a> 
+        <div class="ovh time">
+         <span class="clock_ico">&nbsp;</span>&nbsp;
+         <i>22/03/2018 06:30</i>
+        </div> 
+       </div> 
+       <ul class="ovh top2"> 
+        <li> <a href="/kinh-doanh/cong-ty-tham-dinh-gia-giai-trinh-the-nao-ve-vu-mobifone-mua-avg-20180321193720223.htm" title="Công ty thẩm định giá giải trình thế nào về vụ Mobifone mua AVG?" data-type="0"> <img alt="Công ty thẩm định giá giải trình thế nào về vụ Mobifone mua AVG?" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/avg-15216300621581985916639.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/avg-15216300621581985916639.jpg"> <h3>Công ty thẩm định giá giải trình thế nào về vụ Mobifone mua AVG?</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 07:00</i>
+          </div> </a> </li> 
+        <li> <a href="/kinh-doanh/khuc-than-chuoi-10cm-o-nhat-280-ngan-dong-viet-nam-bam-cho-lon-20180322062726933.htm" title="Khúc thân chuối 10cm: Ở Nhật 280 ngàn đồng, Việt Nam băm cho lợn" data-type="0"> <img alt="Khúc thân chuối 10cm: Ở Nhật 280 ngàn đồng, Việt Nam băm cho lợn" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/22/khuc-than-chuoi-10cm-o-nhat-280-ngan-viet-nam-bam-cho-lon-1-152167452417420612364.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/22/khuc-than-chuoi-10cm-o-nhat-280-ngan-viet-nam-bam-cho-lon-1-152167452417420612364.jpg"> <h3>Khúc thân chuối 10cm: Ở Nhật 280 ngàn đồng, Việt Nam băm cho lợn</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 06:25</i>
+          </div> </a> </li> 
+        <li> <a href="/kinh-doanh/do-khoc-do-cuoi-canh-mua-hang-qua-mang-ke-ban-nguoi-mua-deu-meo-mat-20180321174234842.htm" title="Những chuyện &quot;dở khóc, dở cười&quot; khó tin khi mua hàng qua mạng" data-type="0"> <img alt="Những chuyện &quot;dở khóc, dở cười&quot; khó tin khi mua hàng qua mạng" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/mua-hang-online-11-crop-15216241963042144156932.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/mua-hang-online-11-crop-15216241963042144156932.jpg"> <h3>Những chuyện "dở khóc, dở cười" khó tin khi mua hàng qua mạng</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 06:00</i>
+          </div> </a> </li> 
+       </ul> 
+      </div> 
+      <div class="ovh cath"> 
+       <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/van-hoa.htm" title="Văn hóa" style="color: #0067d8">Văn hóa</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+       <div class="ovh cath-sub"> 
+        <ul class="fl"> 
+         <li><a href="/van-hoa/doi-song-van-hoa.htm" title="Đời sống văn hóa">Đời sống văn hóa</a></li> 
+         <li><a href="/van-hoa/san-khau-dan-gian.htm" title="Sân khấu - Dân gian">Sân khấu - Dân gian</a></li> 
+         <li><a href="/van-hoa/du-lich-kham-pha.htm" title="Du lịch - Khám phá">Du lịch - Khám phá</a></li> 
+        </ul> 
+        <ul class="fr"> 
+         <li><a href="/van-hoa/dien-anh.htm" title="Điện ảnh">Điện ảnh</a></li> 
+         <li><a href="/van-hoa/van-hoc.htm" title="Văn học">Văn học</a></li> 
+         <li><a href="/van-hoa/am-nhac.htm" title="Âm nhạc">Âm nhạc</a></li> 
+        </ul> 
+       </div> 
+       <div class="ovh top1"> 
+        <a href="/van-hoa/mien-song-nuoc-dong-thap-dep-la-tai-giai-anh-quoc-te-20180322071001884.htm" title="Miền sông nước Đồng Tháp “đẹp lạ” tại giải ảnh quốc tế"> <img alt="Miền sông nước Đồng Tháp “đẹp lạ” tại giải ảnh quốc tế" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/21/18-15216468779611705238854.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/21/18-15216468779611705238854.jpg"> <h3>Miền sông nước Đồng Tháp “đẹp lạ” tại giải ảnh quốc tế&nbsp;<i class="icon_img"></i></h3> </a> 
+        <div class="ovh time">
+         <span class="clock_ico">&nbsp;</span>&nbsp;
+         <i>22/03/2018 07:10</i>
+        </div> 
+       </div> 
+       <ul class="ovh top2"> 
+        <li> <a href="/van-hoa/nu-dien-vien-bi-bong-giac-mac-sau-buoi-chup-hinh-10-tieng-ngoai-troi-2018032207091493.htm" title="Nữ diễn viên bị bỏng giác mạc sau buổi chụp hình 10 tiếng ngoài trời" data-type="0"> <img alt="Nữ diễn viên bị bỏng giác mạc sau buổi chụp hình 10 tiếng ngoài trời" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/17-1521640877006546707297.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/17-1521640877006546707297.jpg"> <h3>Nữ diễn viên bị bỏng giác mạc sau buổi chụp hình 10 tiếng ngoài trời</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 07:09</i>
+          </div> </a> </li> 
+        <li> <a href="/van-hoa/buc-anh-phut-lam-chung-cua-te-giac-gay-xuc-dong-20180321202847961.htm" title="Bức ảnh “phút lâm chung của tê giác” gây xúc động" data-type="0"> <img alt="Bức ảnh “phút lâm chung của tê giác” gây xúc động" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/1-crop-15216195010651082847708.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/1-crop-15216195010651082847708.jpg"> <h3>Bức ảnh “phút lâm chung của tê giác” gây xúc động</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>21/03/2018 20:29</i>
+          </div> </a> </li> 
+        <li> <a href="/van-hoa/bieu-tuong-goi-cam-scarlett-johansson-so-huu-doi-moi-quyen-ru-nhat-20180321141254802.htm" title="Biểu tượng gợi cảm Scarlett Johansson sở hữu đôi môi quyến rũ nhất" data-type="0"> <img alt="Biểu tượng gợi cảm Scarlett Johansson sở hữu đôi môi quyến rũ nhất" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/92-1521604449844439382736.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/92-1521604449844439382736.jpg"> <h3>Biểu tượng gợi cảm Scarlett Johansson sở hữu đôi môi quyến rũ nhất</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>21/03/2018 14:14</i>
+          </div> </a> </li> 
+       </ul> 
+      </div> 
+      <div class="ovh cath"> 
+       <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/giai-tri.htm" title="Giải trí" style="color: #0067d8">Giải trí</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+       <div class="ovh cath-sub"> 
+        <ul class="fl"> 
+         <li><a href="/giai-tri/sao-viet.htm" title="Sao Việt">Sao Việt</a></li> 
+         <li><a href="/giai-tri/hollywood.htm" title="Hollywood">Hollywood</a></li> 
+         <li><a href="/giai-tri/chau-a.htm" title="Châu Á">Châu Á</a></li> 
+        </ul> 
+        <ul class="fr"> 
+         <li><a href="/giai-tri/thoi-trang.htm" title="Thời trang">Thời trang</a></li> 
+         <li><a href="/giai-tri/xem-an-choi.htm" title="Xem - Ăn - Chơi">Xem - Ăn - Chơi</a></li> 
+        </ul> 
+       </div> 
+       <div class="ovh top1"> 
+        <a href="/giai-tri/dua-nhau-hoc-mua-cot-loat-my-nhan-viet-muot-mat-chet-nguoi-tren-san-tap-2018032207530509.htm" title="Đua nhau học múa cột, loạt mỹ nhân Việt mướt mắt “chết người” trên sàn tập"> <img alt="Đua nhau học múa cột, loạt mỹ nhân Việt mướt mắt “chết người” trên sàn tập" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/22/mua-cot--15216779013491543028195.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/22/mua-cot--15216779013491543028195.jpg"> <h3>Đua nhau học múa cột, loạt mỹ nhân Việt mướt mắt “chết người” trên sàn tập</h3> </a> 
+        <div class="ovh time">
+         <span class="clock_ico">&nbsp;</span>&nbsp;
+         <i>22/03/2018 07:58</i>
+        </div> 
+       </div> 
+       <ul class="ovh top2"> 
+        <li> <a href="/giai-tri/sieu-mau-u60-van-tre-dep-hut-hon-20180322082039912.htm" title="Siêu mẫu U60 vẫn trẻ đẹp hút hồn" data-type="0"> <img alt="Siêu mẫu U60 vẫn trẻ đẹp hút hồn" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/22/9-15216814718501733493488.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/22/9-15216814718501733493488.jpg"> <h3>Siêu mẫu U60 vẫn trẻ đẹp hút hồn</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 08:15</i>
+          </div> </a> </li> 
+        <li> <a href="/giai-tri/vo-tac-thien-luu-hieu-khanh-sau-chuoi-ngay-den-toi-trong-tu-20180322070306983.htm" title="&quot;Võ Tắc Thiên&quot; Lưu Hiểu Khánh sau chuỗi ngày đen tối trong tù" data-type="0"> <img alt="&quot;Võ Tắc Thiên&quot; Lưu Hiểu Khánh sau chuỗi ngày đen tối trong tù" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/22/photo-2-crop-1521676854762717997741.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/22/photo-2-crop-1521676854762717997741.jpg"> <h3>"Võ Tắc Thiên" Lưu Hiểu Khánh sau chuỗi ngày đen tối trong tù</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 07:01</i>
+          </div> </a> </li> 
+        <li> <a href="/giai-tri/bat-loi-kho-tin-trong-cac-thuoc-phim-noi-tieng-20180322065233832.htm" title="Bắt lỗi khó tin trong các thước phim nổi tiếng" data-type="0"> <img alt="Bắt lỗi khó tin trong các thước phim nổi tiếng" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/22/photo-1-1521675991590431299313.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/22/photo-1-1521675991590431299313.jpg"> <h3>Bắt lỗi khó tin trong các thước phim nổi tiếng</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 06:49</i>
+          </div> </a> </li> 
+       </ul> 
+      </div> 
+      <div class="ovh cath cath2"> 
+       <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/du-lich.htm" title="Du lịch" style="color: #0067d8">Du lịch</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+       <div class="ovh cath-sub"> 
+        <ul class="fl"> 
+         <li><a href="/du-lich/vong-quay-du-lich.htm" title="Vòng quay du lịch">Vòng quay du lịch</a></li> 
+         <li><a href="/du-lich/kham-pha.htm" title="Khám phá">Khám phá</a></li> 
+         <li><a href="/du-lich/mon-ngon-diem-dep.htm" title="Món ngon - Điểm đẹp">Món ngon - Điểm đẹp</a></li> 
+         <li><a href="/du-lich/tour-hay-khuyen-mai.htm" title="Tour hay - Khuyến mại">Tour hay - Khuyến mại</a></li> 
+        </ul> 
+        <ul class="fr"> 
+         <li><a href="/du-lich/video-anh.htm" title="Video - Ảnh">Video - Ảnh</a></li> 
+         <li><a href="/du-lich/diem-den-moi-tuan.htm" title="Điểm đến mỗi tuần">Điểm đến mỗi tuần</a></li> 
+         <li><a href="/du-lich/tours-ua-thich.htm" title="Tours ưa thích">Tours ưa thích</a></li> 
+        </ul> 
+       </div> 
+       <div class="ovh top1"> 
+        <h3><a href="/du-lich/co-dieu-gi-hay-ho-o-thi-tran-co-ty-le-ngoai-tinh-cao-nhat-nuoc-anh-20180322065902062.htm" title="Có điều gì hay ho ở thị trấn có tỷ lệ ngoại tình cao nhất nước Anh?">Có điều gì hay ho ở thị trấn có tỷ lệ ngoại tình cao nhất nước Anh?</a></h3> 
+        <div class="ovh"> 
+         <a href="/du-lich/co-dieu-gi-hay-ho-o-thi-tran-co-ty-le-ngoai-tinh-cao-nhat-nuoc-anh-20180322065902062.htm"><img alt="Có điều gì hay ho ở thị trấn có tỷ lệ ngoại tình cao nhất nước Anh?" class="lazy" src="http://dantricdn.com/zoom/16_10/2018/3/22/dan-ong-ngoai-tinh-co-yeu-nguoi-tinh-khong-06-1521678313437438607673.jpg" data-src="http://dantricdn.com/zoom/160_100/2018/3/22/dan-ong-ngoai-tinh-co-yeu-nguoi-tinh-khong-06-1521678313437438607673.jpg"></a> 
+         <p class="collapse_txt">(Dân trí) - Theo cuộc khảo sát mới nhất, quê hương của nhà đại văn hào nổi tiếng thế giới ... </p> 
+        </div> 
+        <div class="ovh time">
+         <span class="clock_ico">&nbsp;</span>&nbsp;
+         <i>22/03/2018 06:59</i>
+        </div> 
+       </div> 
+       <ul class="ovh top2"> 
+        <li> <a href="/du-lich/ngo-ngang-voi-nhung-buc-anh-ve-tinh-cuc-ky-an-tuong-2018032207103586.htm" title="Ngỡ ngàng với những bức ảnh vệ tinh cực kỳ ấn tượng" data-type="0"> <h3>Ngỡ ngàng với những bức ảnh vệ tinh cực kỳ ấn tượng</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 07:09</i>
+          </div> </a> </li> 
+        <li> <a href="/du-lich/quan-cafe-ky-quac-mang-chu-de-tang-le-20180321221142174.htm" title="Quán café kỳ quặc mang chủ đề... tang lễ" data-type="0"> <h3>Quán café kỳ quặc mang chủ đề... tang lễ</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 05:00</i>
+          </div> </a> </li> 
+        <li> <a href="/du-lich/choang-ngop-truoc-khung-canh-hoa-anh-dao-khoe-sac-tuyet-dep-giua-ha-noi-20180321150417116.htm" title="Choáng ngợp trước khung cảnh hoa anh đào khoe sắc tuyệt đẹp giữa Hà Nội" data-type="0"> <h3>Choáng ngợp trước khung cảnh hoa anh đào khoe sắc tuyệt đẹp giữa Hà Nội</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>21/03/2018 15:07</i>
+          </div> </a> </li> 
+       </ul> 
+      </div> 
+      <div class="ovh cath"> 
+       <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/phap-luat.htm" title="Pháp luật" style="color: #0067d8">Pháp luật</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+       <div class="ovh cath-sub"> 
+       </div> 
+       <div class="ovh top1"> 
+        <a href="/phap-luat/vu-doi-nam-nu-chet-trong-nha-nghi-co-gai-giet-ban-tinh-20180321213545913.htm" title="Vụ đôi nam nữ chết trong nhà nghỉ: Cô gái giết bạn tình"> <img alt="Vụ đôi nam nữ chết trong nhà nghỉ: Cô gái giết bạn tình" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/20/dscf3497-15215560469712138747216.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/20/dscf3497-15215560469712138747216.jpg"> <h3>Vụ đôi nam nữ chết trong nhà nghỉ: Cô gái giết bạn tình</h3> </a> 
+        <div class="ovh time">
+         <span class="clock_ico">&nbsp;</span>&nbsp;
+         <i>22/03/2018 00:53</i>
+        </div> 
+       </div> 
+       <ul class="ovh top2"> 
+        <li> <a href="/phap-luat/khoi-to-vu-an-phong-vien-bao-giao-thong-bi-hanh-hung-20180322080114157.htm" title="Khởi tố vụ án phóng viên Báo Giao thông bị hành hung" data-type="0"> <img alt="Khởi tố vụ án phóng viên Báo Giao thông bị hành hung" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/12/phong-vien-bao-giao-thong-bi-hanh-hung-1520831404461153846500.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/12/phong-vien-bao-giao-thong-bi-hanh-hung-1520831404461153846500.jpg"> <h3>Khởi tố vụ án phóng viên Báo Giao thông bị hành hung</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 08:02</i>
+          </div> </a> </li> 
+        <li> <a href="/phap-luat/bat-2-doi-tuong-chan-duong-cuop-xe-ngay-tren-quoc-lo-20180322072657656.htm" title="Bắt 2 đối tượng chặn đường cướp xe ngay trên quốc lộ" data-type="0"> <img alt="Bắt 2 đối tượng chặn đường cướp xe ngay trên quốc lộ" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/22/hung-1521676931881108856942.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/22/hung-1521676931881108856942.jpg"> <h3>Bắt 2 đối tượng chặn đường cướp xe ngay trên quốc lộ</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 07:31</i>
+          </div> </a> </li> 
+        <li> <a href="/phap-luat/nuoc-mat-trum-ma-tuy-3-lan-tron-trai-20180321225101301.htm" title="Nước mắt trùm ma túy 3 lần trốn trại" data-type="0"> <img alt="Nước mắt trùm ma túy 3 lần trốn trại" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/hung-ma-tuy-15216251155231290110775.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/hung-ma-tuy-15216251155231290110775.jpg"> <h3>Nước mắt trùm ma túy 3 lần trốn trại</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 07:00</i>
+          </div> </a> </li> 
+       </ul> 
+      </div> 
+      <div class="ovh cath"> 
+       <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/nhip-song-tre.htm" title="Nhịp sống trẻ" style="color: #0067d8">Nhịp sống trẻ</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+       <div class="ovh cath-sub"> 
+        <ul class="fl"> 
+         <li><a href="/nhip-song-tre/nguoi-viet-tre.htm" title="Người Việt trẻ">Người Việt trẻ</a></li> 
+        </ul> 
+        <ul class="fr"> 
+         <li><a href="/nhip-song-tre/phong-su-tre.htm" title="Phóng sự trẻ">Phóng sự trẻ</a></li> 
+        </ul> 
+       </div> 
+       <div class="ovh top1"> 
+        <a href="/nhip-song-tre/ve-dep-bup-be-cua-hot-girl-anh-the-huong-le-20180322005627358.htm" title="&quot;Vẻ đẹp búp bê” của hot girl ảnh thẻ Hương Lê"> <img alt="&quot;Vẻ đẹp búp bê” của hot girl ảnh thẻ Hương Lê" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/14/hot-girl-anh-the-huong-le-xe-buyt18-15210195344252115142679.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/14/hot-girl-anh-the-huong-le-xe-buyt18-15210195344252115142679.jpg"> <h3>"Vẻ đẹp búp bê” của hot girl ảnh thẻ Hương Lê&nbsp;<i class="icon_img"></i></h3> </a> 
+        <div class="ovh time">
+         <span class="clock_ico">&nbsp;</span>&nbsp;
+         <i>22/03/2018 00:59</i>
+        </div> 
+       </div> 
+       <ul class="ovh top2"> 
+        <li> <a href="/nhip-song-tre/chu-re-tro-tai-mua-con-trong-dam-cuoi-gay-sot-mang-20180322010202212.htm" title="Chú rể trổ tài múa côn trong đám cưới gây &quot;sốt&quot; mạng" data-type="0"> <img alt="Chú rể trổ tài múa côn trong đám cưới gây &quot;sốt&quot; mạng" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/mua-con-1-crop-1521638129487437612600.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/mua-con-1-crop-1521638129487437612600.jpg"> <h3>Chú rể trổ tài múa côn trong đám cưới gây "sốt" mạng</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 07:00</i>
+          </div> </a> </li> 
+        <li> <a href="/nhip-song-tre/ban-tre-hien-500-don-vi-mau-trong-ngay-hoi-dien-hong-nhan-ai-20180322005259718.htm" title="Bạn trẻ hiến 500 đơn vị máu trong ngày hội &quot;Điện hồng nhân ái&quot;" data-type="0"> <img alt="Bạn trẻ hiến 500 đơn vị máu trong ngày hội &quot;Điện hồng nhân ái&quot;" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/hien-mau-dien-luc16-crop-15216416019381366827884.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/hien-mau-dien-luc16-crop-15216416019381366827884.jpg"> <h3>Bạn trẻ hiến 500 đơn vị máu trong ngày hội "Điện hồng nhân ái"</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 00:54</i>
+          </div> </a> </li> 
+        <li> <a href="/nhip-song-tre/cap-doi-vuot-gan-2000-cay-so-de-chup-anh-cuoi-20180321054855469.htm" title="Cặp đôi vượt gần 2.000 cây số để chụp ảnh cưới" data-type="0"> <img alt="Cặp đôi vượt gần 2.000 cây số để chụp ảnh cưới" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/17/cap-doi-vuot-gan-2000-cay-so-chup-anh-cuoi-4-15212951884721451879583.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/17/cap-doi-vuot-gan-2000-cay-so-chup-anh-cuoi-4-15212951884721451879583.jpg"> <h3>Cặp đôi vượt gần 2.000 cây số để chụp ảnh cưới</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>21/03/2018 11:00</i>
+          </div> </a> </li> 
+       </ul> 
+      </div> 
+      <div class="clearfix adv-box adv-magazine" id="adm-slot-7258"></div> 
+      <script type="text/javascript">'undefined' == typeof admicroMAD.show ? admicroMAD.unit.push(function () { admicroMAD.show('adm-slot-7258') }) : admicroMAD.show('adm-slot-7258');</script> 
+      <div class="ovh cath"> 
+       <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/suc-khoe.htm" title="Sức khỏe" style="color: #0067d8">Sức khỏe</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+       <div class="ovh cath-sub"> 
+        <ul class="fl"> 
+         <li><a href="/suc-khoe/kien-thuc-gioi-tinh.htm" title="Kiến thức giới tính">Kiến thức giới tính</a></li> 
+         <li><a href="/suc-khoe/tu-van.htm" title="Tư vấn">Tư vấn</a></li> 
+        </ul> 
+        <ul class="fr"> 
+         <li><a href="/suc-khoe/lam-dep.htm" title="Làm đẹp">Làm đẹp</a></li> 
+         <li><a href="/suc-khoe/ung-thu.htm" title="Ung thư">Ung thư</a></li> 
+        </ul> 
+       </div> 
+       <div class="ovh top1"> 
+        <a href="/suc-khoe/bo-y-te-noi-gi-ve-toi-danh-cua-bac-si-hoang-cong-luong-20180321194853244.htm" title="Bộ Y tế nói gì về tội danh của bác sĩ Hoàng Công Lương?"> <img alt="Bộ Y tế nói gì về tội danh của bác sĩ Hoàng Công Lương?" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/21/bo-y-te-15216358799251012720267.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/21/bo-y-te-15216358799251012720267.jpg"> <h3>Bộ Y tế nói gì về tội danh của bác sĩ Hoàng Công Lương?</h3> </a> 
+        <div class="ovh time">
+         <span class="clock_ico">&nbsp;</span>&nbsp;
+         <i>21/03/2018 19:45</i>
+        </div> 
+       </div> 
+       <ul class="ovh top2"> 
+        <li> <a href="/suc-khoe/se-co-thuoc-tranh-thai-nam-uong-hang-ngay-20180322074756249.htm" title="Sẽ có thuốc tránh thai nam uống hàng ngày" data-type="0"> <img alt="Sẽ có thuốc tránh thai nam uống hàng ngày" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/22/thuoc-tranh-thai-nam-1521679565417684517381.jpeg" data-src="http://dantricdn.com/zoom/100_100/2018/3/22/thuoc-tranh-thai-nam-1521679565417684517381.jpeg"> <h3>Sẽ có thuốc tránh thai nam uống hàng ngày</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 07:47</i>
+          </div> </a> </li> 
+        <li> <a href="/suc-khoe/su-that-ve-viec-hien-tang-phai-nop-17-trieu-dong-20180321213205259.htm" title="Sự thật về việc hiến tạng phải nộp 17 triệu đồng" data-type="0"> <img alt="Sự thật về việc hiến tạng phải nộp 17 triệu đồng" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/hien-tang-152164263312386782439.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/hien-tang-152164263312386782439.jpg"> <h3>Sự thật về việc hiến tạng phải nộp 17 triệu đồng</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>21/03/2018 21:31</i>
+          </div> </a> </li> 
+        <li> <a href="/suc-khoe/bo-y-te-bac-thong-tin-de-nghi-mien-truy-cuu-trach-nhiem-hinh-su-bac-si-hoang-cong-luong-20180321162306989.htm" title="Bộ Y tế bác thông tin đề nghị miễn truy cứu trách nhiệm hình sự bác sĩ Hoàng Công Lương" data-type="0"> <img alt="Bộ Y tế bác thông tin đề nghị miễn truy cứu trách nhiệm hình sự bác sĩ Hoàng Công Lương" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/bi-can-15216238062061596488227.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/bi-can-15216238062061596488227.jpg"> <h3>Bộ Y tế bác thông tin đề nghị miễn truy cứu trách nhiệm hình sự bác sĩ Hoàng Công Lương</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>21/03/2018 16:20</i>
+          </div> </a> </li> 
+       </ul> 
+      </div> 
+      <div class="ovh cath"> 
+       <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/suc-manh-so.htm" title="Sức mạnh số" style="color: #0067d8">Sức mạnh số</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+       <div class="ovh cath-sub"> 
+        <ul class="fl"> 
+         <li><a href="/suc-manh-so/vi-tinh.htm" title="Máy tính - Mạng">Máy tính - Mạng</a></li> 
+         <li><a href="/suc-manh-so/dien-thoai.htm" title="Di động - Viễn thông">Di động - Viễn thông</a></li> 
+         <li><a href="/suc-manh-so/dien-may.htm" title="Điện tử tiêu dùng">Điện tử tiêu dùng</a></li> 
+         <li><a href="/suc-manh-so/nghe-nhin.htm" title="Nghe nhìn">Nghe nhìn</a></li> 
+        </ul> 
+        <ul class="fr"> 
+         <li><a href="/suc-manh-so/phan-mem-bao-mat.htm" title="Phần mềm - Bảo mật">Phần mềm - Bảo mật</a></li> 
+         <li><a href="/suc-manh-so/thu-thuat.htm" title="Thủ thuật - Mẹo vặt">Thủ thuật - Mẹo vặt</a></li> 
+         <li><a href="/suc-manh-so/thi-truong-cong-nghe.htm" title="Thị trường công nghệ">Thị trường công nghệ</a></li> 
+        </ul> 
+       </div> 
+       <div class="ovh top1"> 
+        <a href="/suc-manh-so/cac-cach-de-giu-thong-tin-ca-nhan-duoc-an-toan-khi-su-dung-facebook-20180322070458642.htm" title="Các cách để giữ thông tin cá nhân được an toàn khi sử dụng Facebook"> <img alt="Các cách để giữ thông tin cá nhân được an toàn khi sử dụng Facebook" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/22/tai-khoan-facebook-v-1521660255318653723835.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/22/tai-khoan-facebook-v-1521660255318653723835.jpg"> <h3>Các cách để giữ thông tin cá nhân được an toàn khi sử dụng Facebook</h3> </a> 
+        <div class="ovh time">
+         <span class="clock_ico">&nbsp;</span>&nbsp;
+         <i>22/03/2018 07:08</i>
+        </div> 
+       </div> 
+       <ul class="ovh top2"> 
+        <li> <a href="/suc-manh-so/chua-noi-dung-khieu-dam-bitcoin-co-nguy-co-bi-cam-cua-20180322071448151.htm" title="Chứa nội dung khiêu dâm, Bitcoin có nguy cơ bị &quot;cấm cửa&quot;" data-type="0"> <img alt="Chứa nội dung khiêu dâm, Bitcoin có nguy cơ bị &quot;cấm cửa&quot;" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/child-abuse-1521605959998720319160.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/child-abuse-1521605959998720319160.jpg"> <h3>Chứa nội dung khiêu dâm, Bitcoin có nguy cơ bị "cấm cửa"</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 07:16</i>
+          </div> </a> </li> 
+        <li> <a href="/suc-manh-so/nhung-quy-dinh-moi-ve-quan-ly-ten-mien-tai-viet-nam-20180322071100149.htm" title="Những quy định mới về quản lý tên miền tại Việt Nam" data-type="0"> <img alt="Những quy định mới về quản lý tên miền tại Việt Nam" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/criteria-to-choose-right-domain-name-15216224608721658484493.png" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/criteria-to-choose-right-domain-name-15216224608721658484493.png"> <h3>Những quy định mới về quản lý tên miền tại Việt Nam</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 07:13</i>
+          </div> </a> </li> 
+        <li> <a href="/suc-manh-so/dien-thoai-hang-sang-cua-tonino-lamborghini-lan-dau-tien-ve-viet-nam-20180321235103394.htm" title="Điện thoại hạng sang của Tonino Lamborghini lần đầu tiên về Việt Nam" data-type="3"> <img alt="Điện thoại hạng sang của Tonino Lamborghini lần đầu tiên về Việt Nam" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/20180321162337-15216501290281323239044.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/20180321162337-15216501290281323239044.jpg"> <h3>Điện thoại hạng sang của Tonino Lamborghini lần đầu tiên về Việt Nam&nbsp;<i class="icon_img"></i></h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>21/03/2018 23:50</i>
+          </div> </a> </li> 
+       </ul> 
+      </div> 
+      <div class="ovh cath"> 
+       <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/o-to-xe-may.htm" title="Ô tô - Xe máy" style="color: #0067d8">Ô tô - Xe máy</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+       <div class="ovh cath-sub"> 
+        <ul class="fl"> 
+         <li><a href="/o-to-xe-may/thi-truong-xe.htm" title="Thị trường xe">Thị trường xe</a></li> 
+         <li><a href="/o-to-xe-may/van-hoa-xe.htm" title="Văn hoá xe">Văn hoá xe</a></li> 
+         <li><a href="/o-to-xe-may/tu-van-xe.htm" title="Tư vấn xe">Tư vấn xe</a></li> 
+        </ul> 
+        <ul class="fr"> 
+         <li><a href="/o-to-xe-may/dua-xe.htm" title="Đua xe">Đua xe</a></li> 
+         <li><a href="/o-to-xe-may/gia-xe.htm" title="Giá xe">Giá xe</a></li> 
+        </ul> 
+       </div> 
+       <div class="ovh top1"> 
+        <a href="/o-to-xe-may/giay-phep-lai-xe-quoc-te-su-dung-nhu-the-nao-va-quoc-gia-nao-cong-nhan-20180321162903517.htm" title="Giấy phép lái xe quốc tế - Sử dụng như thế nào và quốc gia nào công nhận?"> <img alt="Giấy phép lái xe quốc tế - Sử dụng như thế nào và quốc gia nào công nhận?" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/21/giayphep-laixe-quocte-1521622874839382669067.gif.png" data-src="http://dantricdn.com/zoom/480_300/2018/3/21/giayphep-laixe-quocte-1521622874839382669067.gif.png"> <h3>Giấy phép lái xe quốc tế - Sử dụng như thế nào và quốc gia nào công nhận?</h3> </a> 
+        <div class="ovh time">
+         <span class="clock_ico">&nbsp;</span>&nbsp;
+         <i>22/03/2018 05:16</i>
+        </div> 
+       </div> 
+       <ul class="ovh top2"> 
+        <li> <a href="/o-to-xe-may/o-to-my-chat-vat-tim-loi-di-o-nhat-20180322071934276.htm" title="Ô tô Mỹ chật vật tìm lối đi ở Nhật" data-type="0"> <img alt="Ô tô Mỹ chật vật tìm lối đi ở Nhật" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/22/oto-my-15216775108301566605034.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/22/oto-my-15216775108301566605034.jpg"> <h3>Ô tô Mỹ chật vật tìm lối đi ở Nhật</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 07:30</i>
+          </div> </a> </li> 
+        <li> <a href="/o-to-xe-may/con-nhieu-nguoi-ngo-nhan-ve-chuc-nang-tui-khi-o-to-20180322065606448.htm" title="Còn nhiều người ngộ nhận về chức năng túi khí ô tô" data-type="0"> <img alt="Còn nhiều người ngộ nhận về chức năng túi khí ô tô" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/22/k8-15216760853421263004932.png" data-src="http://dantricdn.com/zoom/100_100/2018/3/22/k8-15216760853421263004932.png"> <h3>Còn nhiều người ngộ nhận về chức năng túi khí ô tô</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 06:54</i>
+          </div> </a> </li> 
+        <li> <a href="/o-to-xe-may/cai-ket-dang-cho-xe-khach-co-tinh-lan-lan-20180322065620889.htm" title="Cái kết đắng cho xe khách cố tình lấn làn" data-type="0"> <img alt="Cái kết đắng cho xe khách cố tình lấn làn" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/screen-shot-2018-03-21-at-230504-copy-1521648347076673583362.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/screen-shot-2018-03-21-at-230504-copy-1521648347076673583362.jpg"> <h3>Cái kết đắng cho xe khách cố tình lấn làn</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 06:00</i>
+          </div> </a> </li> 
+       </ul> 
+      </div> 
+      <div class="ovh cath"> 
+       <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/khoa-hoc-cong-nghe.htm" title="Khoa học - Công nghệ" style="color: #0067d8">Khoa học - Công nghệ</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+       <div class="ovh cath-sub"> 
+        <ul class="fl"> 
+         <li><a href="/khoa-hoc-cong-nghe/the-gioi-tu-nhien.htm" title="Thế giới tự nhiên">Thế giới tự nhiên</a></li> 
+         <li><a href="/khoa-hoc-cong-nghe/khoa-hoc-do-day.htm" title="Khoa học đó đây">Khoa học đó đây</a></li> 
+         <li><a href="/khoa-hoc-cong-nghe/tai-sao-lai-the.htm" title="Tại sao lại thế?">Tại sao lại thế?</a></li> 
+        </ul> 
+        <ul class="fr"> 
+         <li><a href="/khoa-hoc-cong-nghe/sang-tao-viet.htm" title="Sáng tạo Việt">Sáng tạo Việt</a></li> 
+         <li><a href="/khoa-hoc-cong-nghe/khoa-hoc-doi-song.htm" title="Khoa học &amp; đời sống">Khoa học &amp; đời sống</a></li> 
+         <li><a href="/khoa-hoc-cong-nghe/nhan-tai-dat-viet.htm" title="Nhân tài Đất Việt">Nhân tài Đất Việt</a></li> 
+        </ul> 
+       </div> 
+       <div class="ovh top1"> 
+        <a href="/khoa-hoc-cong-nghe/kham-pha-nhung-su-that-thu-vi-ve-nguoi-viking-20180322060907721.htm" title="Khám phá những sự thật thú vị về người Viking"> <img alt="Khám phá những sự thật thú vị về người Viking" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/21/giphy-1521643990454120589642.gif.png" data-src="http://dantricdn.com/zoom/480_300/2018/3/21/giphy-1521643990454120589642.gif.png"> <h3>Khám phá những sự thật thú vị về người Viking</h3> </a> 
+        <div class="ovh time">
+         <span class="clock_ico">&nbsp;</span>&nbsp;
+         <i>22/03/2018 06:09</i>
+        </div> 
+       </div> 
+       <ul class="ovh top2"> 
+        <li> <a href="/khoa-hoc-cong-nghe/ky-thuat-bien-doi-gen-co-the-giup-tiet-kiem-25-luong-nuoc-cho-cay-trong-20180322070411474.htm" title="Kỹ thuật biến đổi gen có thể giúp tiết kiệm 25% lượng nước cho cây trồng" data-type="0"> <img alt="Kỹ thuật biến đổi gen có thể giúp tiết kiệm 25% lượng nước cho cây trồng" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/22/bien-doi-gen-152167692674335107655.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/22/bien-doi-gen-152167692674335107655.jpg"> <h3>Kỹ thuật biến đổi gen có thể giúp tiết kiệm 25% lượng nước cho cây trồng</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 07:03</i>
+          </div> </a> </li> 
+        <li> <a href="/khoa-hoc-cong-nghe/loi-ich-cua-lam-viec-tu-do-20180321195908719.htm" title="Lợi ích của làm việc tự do" data-type="0"> <img alt="Lợi ích của làm việc tự do" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/loi-ich-15216370472092016752278.png" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/loi-ich-15216370472092016752278.png"> <h3>Lợi ích của làm việc tự do</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>21/03/2018 19:58</i>
+          </div> </a> </li> 
+        <li> <a href="/khoa-hoc-cong-nghe/to-tien-cua-tat-ca-cac-vat-the-song-la-gi-20180321195523949.htm" title="Tổ tiên của tất cả các vật thể sống là gì?" data-type="0"> <img alt="Tổ tiên của tất cả các vật thể sống là gì?" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/to-tien-15216367258301364380980.png" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/to-tien-15216367258301364380980.png"> <h3>Tổ tiên của tất cả các vật thể sống là gì?</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>21/03/2018 19:55</i>
+          </div> </a> </li> 
+       </ul> 
+      </div> 
+      <div class="ovh cath"> 
+       <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/tinh-yeu-gioi-tinh.htm" title="Tình yêu - Giới tính" style="color: #0067d8">Tình yêu - Giới tính</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+       <div class="ovh cath-sub"> 
+        <ul class="fl"> 
+         <li><a href="/tinh-yeu-gioi-tinh/tinh-yeu.htm" title="Tình yêu">Tình yêu</a></li> 
+         <li><a href="/tinh-yeu-gioi-tinh/gia-dinh.htm" title="Gia đình">Gia đình</a></li> 
+        </ul> 
+        <ul class="fr"> 
+         <li><a href="/tinh-yeu-gioi-tinh/goc-tam-hon.htm" title="Góc tâm hồn">Góc tâm hồn</a></li> 
+        </ul> 
+       </div> 
+       <div class="ovh top1"> 
+        <a href="/tinh-yeu-gioi-tinh/bat-luc-quy-ong-do-khoc-do-cuoi-kho-vi-duoi-hung-huc-tren-buon-buc-20180322073831793.htm" title="Bất lực, quý ông dở khóc dở cười: Khổ vì “dưới” hừng hực, “trên” buồn bực"> <img alt="Bất lực, quý ông dở khóc dở cười: Khổ vì “dưới” hừng hực, “trên” buồn bực" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/22/152162539870388-thumbnail-auto-crop-1521678648914753163650.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/22/152162539870388-thumbnail-auto-crop-1521678648914753163650.jpg"> <h3>Bất lực, quý ông dở khóc dở cười: Khổ vì “dưới” hừng hực, “trên” buồn bực</h3> </a> 
+        <div class="ovh time">
+         <span class="clock_ico">&nbsp;</span>&nbsp;
+         <i>22/03/2018 07:38</i>
+        </div> 
+       </div> 
+       <ul class="ovh top2"> 
+        <li> <a href="/tinh-yeu-gioi-tinh/9-nguyen-tac-vang-trong-nuoi-day-con-bac-cha-me-nao-cung-gat-gu-vi-qua-dung-20180321072329243.htm" title="9 nguyên tắc vàng trong nuôi dạy con, bậc cha mẹ nào cũng gật gù vì quá đúng" data-type="0"> <img alt="9 nguyên tắc vàng trong nuôi dạy con, bậc cha mẹ nào cũng gật gù vì quá đúng" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/152153366823030-thumbnail-auto-crop-15215915221451732929234.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/152153366823030-thumbnail-auto-crop-15215915221451732929234.jpg"> <h3>9 nguyên tắc vàng trong nuôi dạy con, bậc cha mẹ nào cũng gật gù vì quá đúng</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>21/03/2018 14:00</i>
+          </div> </a> </li> 
+        <li> <a href="/tinh-yeu-gioi-tinh/la-doi-bo-cua-con-re-vac-bung-bau-den-tong-tien-me-vo-20180321102931997.htm" title="Lạ đời, bồ của con rể vác bụng bầu đến tống tiền mẹ vợ" data-type="0"> <img alt="Lạ đời, bồ của con rể vác bụng bầu đến tống tiền mẹ vợ" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/15215243823775-thumbnail-auto-crop-1521602714507283442616.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/15215243823775-thumbnail-auto-crop-1521602714507283442616.jpg"> <h3>Lạ đời, bồ của con rể vác bụng bầu đến tống tiền mẹ vợ</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>21/03/2018 10:29</i>
+          </div> </a> </li> 
+        <li> <a href="/tinh-yeu-gioi-tinh/cham-con-dau-nam-o-me-chong-kiem-co-mang-cho-chui-meo-20180320215327296.htm" title="Chăm con dâu “nằm ổ”, mẹ chồng kiếm cớ “mắng chó chửi mèo”" data-type="0"> <img alt="Chăm con dâu “nằm ổ”, mẹ chồng kiếm cớ “mắng chó chửi mèo”" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/20/me-chong-152155748725684277646.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/20/me-chong-152155748725684277646.jpg"> <h3>Chăm con dâu “nằm ổ”, mẹ chồng kiếm cớ “mắng chó chửi mèo”</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>21/03/2018 08:00</i>
+          </div> </a> </li> 
+       </ul> 
+      </div> 
+      <div class="ovh cath cath2"> 
+       <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/ban-doc.htm" title="Bạn đọc" style="color: #0067d8">Bạn đọc</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+       <div class="ovh cath-sub"> 
+        <ul class="fl"> 
+         <li><a href="/ban-doc/dieu-tra.htm" title="Điều tra">Điều tra</a></li> 
+         <li><a href="/ban-doc/tu-van-phap-luat.htm" title="Tư vấn pháp luật">Tư vấn pháp luật</a></li> 
+        </ul> 
+        <ul class="fr"> 
+         <li><a href="/ban-doc/hoi-am.htm" title="Hồi âm">Hồi âm</a></li> 
+        </ul> 
+       </div> 
+       <div class="ovh top1"> 
+        <h3><a href="/ban-doc/hang-nghin-cay-ca-phe-chet-dot-ngot-dan-vac-don-keu-cuu-20180322072653607.htm" title="Hàng nghìn cây cà phê chết đột ngột, dân “vác” đơn kêu cứu!">Hàng nghìn cây cà phê chết đột ngột, dân “vác” đơn kêu cứu!</a></h3> 
+        <div class="ovh"> 
+         <a href="/ban-doc/hang-nghin-cay-ca-phe-chet-dot-ngot-dan-vac-don-keu-cuu-20180322072653607.htm"><img alt="Hàng nghìn cây cà phê chết đột ngột, dân “vác” đơn kêu cứu!" class="lazy" src="http://dantricdn.com/zoom/16_10/2018/3/21/2-1521605112850315625169.jpg" data-src="http://dantricdn.com/zoom/160_100/2018/3/21/2-1521605112850315625169.jpg"></a> 
+         <p class="collapse_txt">(Dân trí) - Từ trong Tết Nguyên Đán năm 2018 tới nay, hàng nghìn cây cà phê nằm ở xã ... </p> 
+        </div> 
+        <div class="ovh time">
+         <span class="clock_ico">&nbsp;</span>&nbsp;
+         <i>22/03/2018 07:28</i>
+        </div> 
+       </div> 
+       <ul class="ovh top2"> 
+        <li> <a href="/ban-doc/nhieu-bai-cat-lau-tap-ket-day-dac-trong-khu-kinh-te-chan-may-lang-co-20180322072853453.htm" title="Nhiều bãi cát lậu “tập kết” dày đặc trong Khu kinh tế Chân Mây - Lăng Cô!" data-type="0"> <h3>Nhiều bãi cát lậu “tập kết” dày đặc trong Khu kinh tế Chân Mây - Lăng Cô!</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 07:31</i>
+          </div> </a> </li> 
+        <li> <a href="/ban-doc/xam-hai-xong-nem-be-gai-4-tuoi-xuong-gieng-ke-thu-ac-con-cua-thoat-an-tu-20180321075516498.htm" title="Xâm hại xong ném bé gái 4 tuổi xuống giếng, kẻ thủ ác còn cửa thoát án tử?" data-type="0"> <h3>Xâm hại xong ném bé gái 4 tuổi xuống giếng, kẻ thủ ác còn cửa thoát án tử?</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>21/03/2018 08:06</i>
+          </div> </a> </li> 
+        <li> <a href="/ban-doc/vu-dieu-dung-vi-quyet-dinh-dinh-chi-xet-xu-phuc-tham-mon-moi-cho-cong-ly-2018032107221218.htm" title="Vụ điêu đứng vì quyết định đình chỉ xét xử phúc thẩm: Mòn mỏi chờ công lý!" data-type="0"> <h3>Vụ điêu đứng vì quyết định đình chỉ xét xử phúc thẩm: Mòn mỏi chờ công lý!</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>21/03/2018 07:23</i>
+          </div> </a> </li> 
+       </ul> 
+      </div> 
+      <div class="ovh cath cath2"> 
+       <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/tuyen-sinh.htm" title="Tuyển sinh" style="color: #0067d8">Tuyển sinh</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+       <div class="ovh cath-sub"> 
+        <ul class="fl"> 
+         <li><a href="/tuyen-sinh/chi-tieu.htm" title="Chỉ tiêu">Chỉ tiêu</a></li> 
+         <li><a href="/tuyen-sinh/de-thi-dap-an.htm" title="Đề thi - Đáp án">Đề thi - Đáp án</a></li> 
+         <li><a href="/tuyen-sinh/khoanh-khac-mua-thi.htm" title="Khoảnh khắc mùa thi">Khoảnh khắc mùa thi</a></li> 
+        </ul> 
+        <ul class="fr"> 
+         <li><a href="/tuyen-sinh/tu-van-toan-canh.htm" title="Tư vấn toàn cảnh">Tư vấn toàn cảnh</a></li> 
+         <li><a href="/tuyen-sinh/gap-go-cac-truong.htm" title="Gặp gỡ các trường">Gặp gỡ các trường</a></li> 
+        </ul> 
+       </div> 
+       <div class="ovh top1"> 
+        <h3><a href="/giao-duc-khuyen-hoc/tuyen-sinh-2018-xuat-hien-nganh-hoc-hot-actuary-20180322080146722.htm" title="Tuyển sinh 2018: Xuất hiện ngành học &quot;hót&quot; Actuary">Tuyển sinh 2018: Xuất hiện ngành học "hót" Actuary</a></h3> 
+        <div class="ovh"> 
+         <a href="/giao-duc-khuyen-hoc/tuyen-sinh-2018-xuat-hien-nganh-hoc-hot-actuary-20180322080146722.htm"><img alt="Tuyển sinh 2018: Xuất hiện ngành học &quot;hót&quot; Actuary" class="lazy" src="http://dantricdn.com/zoom/16_10/2018/3/22/kinh-te-152168037056717221587.jpg" data-src="http://dantricdn.com/zoom/160_100/2018/3/22/kinh-te-152168037056717221587.jpg"></a> 
+         <p class="collapse_txt">(Dân trí) - Đây là ngành học mới nhất trong hệ thống giáo dục đại học Việt Nam. Theo đó, ... </p> 
+        </div> 
+        <div class="ovh time">
+         <span class="clock_ico">&nbsp;</span>&nbsp;
+         <i>22/03/2018 08:00</i>
+        </div> 
+       </div> 
+       <ul class="ovh top2"> 
+        <li> <a href="/giao-duc-khuyen-hoc/co-hoi-viec-lam-cho-nhan-su-tre-trong-nganh-du-lich-2018032015160166.htm" title="Cơ hội việc làm cho nhân sự trẻ trong ngành Du lịch" data-type="0"> <h3>Cơ hội việc làm cho nhân sự trẻ trong ngành Du lịch</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 04:30</i>
+          </div> </a> </li> 
+        <li> <a href="/tuyen-sinh/tuyen-sinh-dau-cap-cac-truong-muon-to-chuc-khao-sat-2018032117150676.htm" title="Tuyển sinh đầu cấp: Các trường muốn tổ chức khảo sát" data-type="0"> <h3>Tuyển sinh đầu cấp: Các trường muốn tổ chức khảo sát</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>21/03/2018 08:00</i>
+          </div> </a> </li> 
+        <li> <a href="/giao-duc-khuyen-hoc/thi-thpt-quoc-gia-2018-xu-huong-chon-bai-thi-xa-hoi-tang-20180320134640406.htm" title="Thi THPT quốc gia 2018: Xu hướng chọn bài thi xã hội tăng" data-type="0"> <h3>Thi THPT quốc gia 2018: Xu hướng chọn bài thi xã hội tăng</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>20/03/2018 13:47</i>
+          </div> </a> </li> 
+       </ul> 
+      </div> 
+      <div class="ovh cath cath2"> 
+       <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/viec-lam.htm" title="Việc làm" style="color: #0067d8">Việc làm</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+       <div class="ovh cath-sub"> 
+        <ul class="fl"> 
+         <li><a href="/viec-lam/chinh-sach.htm" title="Chính sách">Chính sách</a></li> 
+         <li><a href="/viec-lam/thi-truong.htm" title="Thị trường">Thị trường</a></li> 
+         <li><a href="/viec-lam/chung-toi-noi.htm" title="Chúng tôi nói">Chúng tôi nói</a></li> 
+        </ul> 
+        <ul class="fr"> 
+         <li><a href="/viec-lam/dao-tao.htm" title="Đào tạo">Đào tạo</a></li> 
+         <li><a href="/viec-lam/xkld.htm" title="XKLĐ">XKLĐ</a></li> 
+        </ul> 
+       </div> 
+       <div class="ovh top1"> 
+        <h3><a href="/viec-lam/no-28-ti-dong-bhxh-doanh-nghiep-bi-de-nghi-xu-ly-hinh-su-20180322074916432.htm" title="Nợ 28 tỉ đồng BHXH: Doanh nghiệp bị đề nghị xử lý hình sự">Nợ 28 tỉ đồng BHXH: Doanh nghiệp bị đề nghị xử lý hình sự</a></h3> 
+        <div class="ovh"> 
+         <a href="/viec-lam/no-28-ti-dong-bhxh-doanh-nghiep-bi-de-nghi-xu-ly-hinh-su-20180322074916432.htm"><img alt="Nợ 28 tỉ đồng BHXH: Doanh nghiệp bị đề nghị xử lý hình sự" class="lazy" src="http://dantricdn.com/zoom/16_10/2018/3/22/bhxh-1521679643676836961794.jpg" data-src="http://dantricdn.com/zoom/160_100/2018/3/22/bhxh-1521679643676836961794.jpg"></a> 
+         <p class="collapse_txt">(Dân trí) - Bảo hiểm xã hội TP HCM vừa có công văn gửi Cơ quan công an đề nghị ... </p> 
+        </div> 
+        <div class="ovh time">
+         <span class="clock_ico">&nbsp;</span>&nbsp;
+         <i>22/03/2018 07:48</i>
+        </div> 
+       </div> 
+       <ul class="ovh top2"> 
+        <li> <a href="/viec-lam/dieu-nhan-vien-muon-nhung-khong-noi-voi-sep-20180322075757407.htm" title="Điều nhân viên muốn nhưng không nói với sếp" data-type="0"> <h3>Điều nhân viên muốn nhưng không nói với sếp</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 07:57</i>
+          </div> </a> </li> 
+        <li> <a href="/viec-lam/huong-bhyt-ra-sao-khi-tu-kham-benh-o-tuyen-trung-uong-20180321225144102.htm" title="Hưởng BHYT ra sao khi tự khám bệnh ở tuyến trung ương?" data-type="0"> <h3>Hưởng BHYT ra sao khi tự khám bệnh ở tuyến trung ương?</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 06:04</i>
+          </div> </a> </li> 
+        <li> <a href="/viec-lam/phat-toi-da-20-trieu-dong-neu-tu-choi-doi-thoai-voi-cong-doan-2018032116375322.htm" title="Phạt tối đa 20 triệu đồng nếu từ chối đối thoại với công đoàn" data-type="0"> <h3>Phạt tối đa 20 triệu đồng nếu từ chối đối thoại với công đoàn</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>21/03/2018 16:37</i>
+          </div> </a> </li> 
+       </ul> 
+      </div> 
+      <div class="ovh cath cath2"> 
+       <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/du-hoc.htm" title="Du học" style="color: #0067d8">Du học</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+       <div class="ovh cath-sub"> 
+        <ul class="fl"> 
+         <li><a href="/du-hoc/co-hoi-du-hoc.htm" title="Cơ hội du học">Cơ hội du học</a></li> 
+         <li><a href="/du-hoc/the-gioi-du-hoc.htm" title="Thế giới du học">Thế giới du học</a></li> 
+         <li><a href="/du-hoc/tai-tri-viet.htm" title="Tài trí Việt">Tài trí Việt</a></li> 
+         <li><a href="/du-hoc/cac-ngoi-truong-danh-tieng.htm" title="Các ngôi trường danh tiếng">Các ngôi trường danh tiếng</a></li> 
+         <li><a href="/du-hoc/cam-nang-hoi-dap.htm" title="Cẩm nang - Hỏi đáp">Cẩm nang - Hỏi đáp</a></li> 
+        </ul> 
+        <ul class="fr"> 
+         <li><a href="/du-hoc/talk-2-language-link.htm" title="Talk 2 Language Link">Talk 2 Language Link</a></li> 
+         <li><a href="/du-hoc/talk-2-uni.htm" title="Talk 2 uni">Talk 2 uni</a></li> 
+         <li><a href="/du-hoc/talk-to-paul.htm" title="Talk to Paul">Talk to Paul</a></li> 
+         <li><a href="/du-hoc/biet.htm" title="Biết +">Biết +</a></li> 
+        </ul> 
+       </div> 
+       <div class="ovh top1"> 
+        <h3><a href="/du-hoc/tang-ve-may-bay-du-hoc-va-xe-may-yamaha-grande-cho-du-hoc-sinh-tai-trien-lam-45-truong-my-20180321143442296.htm" title="Tặng vé máy bay du học và xe máy Yamaha Grande cho du học sinh tại Triển lãm 45 trường Mỹ">Tặng vé máy bay du học và xe máy Yamaha Grande cho du học sinh tại Triển lãm 45 trường Mỹ</a></h3> 
+        <div class="ovh"> 
+         <a href="/du-hoc/tang-ve-may-bay-du-hoc-va-xe-may-yamaha-grande-cho-du-hoc-sinh-tai-trien-lam-45-truong-my-20180321143442296.htm"><img alt="Tặng vé máy bay du học và xe máy Yamaha Grande cho du học sinh tại Triển lãm 45 trường Mỹ" class="lazy" src="http://dantricdn.com/zoom/16_10/2018/3/21/photo-1-15216170961641270148095.jpg" data-src="http://dantricdn.com/zoom/160_100/2018/3/21/photo-1-15216170961641270148095.jpg"></a> 
+         <p class="collapse_txt">45 trường Đại học &amp; Cao đẳng Mỹ cùng các nhà tài trợ dành tặng các gói hỗ trợ tài ... </p> 
+        </div> 
+        <div class="ovh time">
+         <span class="clock_ico">&nbsp;</span>&nbsp;
+         <i>22/03/2018 01:13</i>
+        </div> 
+       </div> 
+       <ul class="ovh top2"> 
+        <li> <a href="/du-hoc/phong-van-visa-du-hoc-my-nam-quyen-chu-dong-la-nam-chia-khoa-thanh-cong-20180321141026297.htm" title="Phỏng vấn visa du học Mỹ: Nắm quyền chủ động là nắm chìa khóa thành công" data-type="0"> <h3>Phỏng vấn visa du học Mỹ: Nắm quyền chủ động là nắm chìa khóa thành công</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 08:00</i>
+          </div> </a> </li> 
+        <li> <a href="/du-hoc/du-hoc-my-bang-california-co-hoi-lam-viec-cho-google-apple-facebook-adobe-ebay-20180321065602106.htm" title="Du học Mỹ Bang California - Cơ hội làm việc cho Google, Apple, Facebook, Adobe, eBay..." data-type="0"> <h3>Du học Mỹ Bang California - Cơ hội làm việc cho Google, Apple, Facebook, Adobe, eBay...</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>21/03/2018 06:55</i>
+          </div> </a> </li> 
+        <li> <a href="/giao-duc-khuyen-hoc/hanh-trinh-du-hoc-tien-si-con-duong-day-chong-gai-20180321054342122.htm" title="Hành trình du học Tiến sĩ: Con đường đầy chông gai" data-type="0"> <h3>Hành trình du học Tiến sĩ: Con đường đầy chông gai</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>21/03/2018 05:46</i>
+          </div> </a> </li> 
+       </ul> 
+      </div> 
+      <div class="ovh cath cath2"> 
+       <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/chuyen-la.htm" title="Chuyện lạ" style="color: #0067d8">Chuyện lạ</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+       <div class="ovh cath-sub"> 
+       </div> 
+       <div class="ovh top1"> 
+        <h3><a href="/chuyen-la/nguoi-phu-nu-beo-nhat-the-gioi-duoc-phat-hien-mang-thai-quyet-giam-can-de-lam-me-20180322072716202.htm" title="Người phụ nữ béo nhất thế giới được phát hiện mang thai, quyết giảm cân để làm mẹ">Người phụ nữ béo nhất thế giới được phát hiện mang thai, quyết giảm cân để làm mẹ</a></h3> 
+        <div class="ovh"> 
+         <a href="/chuyen-la/nguoi-phu-nu-beo-nhat-the-gioi-duoc-phat-hien-mang-thai-quyet-giam-can-de-lam-me-20180322072716202.htm"><img alt="Người phụ nữ béo nhất thế giới được phát hiện mang thai, quyết giảm cân để làm mẹ" class="lazy" src="http://dantricdn.com/zoom/16_10/2018/3/22/photo-5-1521678045818551608261.jpg" data-src="http://dantricdn.com/zoom/160_100/2018/3/22/photo-5-1521678045818551608261.jpg"></a> 
+         <p class="collapse_txt">(Dân trí) - Từng ước mơ trở thành người phụ nữ béo nhất thế giới nhưng cuối cùng Monica cũng ... </p> 
+        </div> 
+        <div class="ovh time">
+         <span class="clock_ico">&nbsp;</span>&nbsp;
+         <i>22/03/2018 07:26</i>
+        </div> 
+       </div> 
+       <ul class="ovh top2"> 
+        <li> <a href="/chuyen-la/video-hiem-nguoi-di-xe-may-mai-xem-dien-thoai-dap-mat-vao-o-to-20180321160856093.htm" title="Video hiếm: Người đi xe máy mải xem điện thoại đập mặt vào ô tô" data-type="2"> <h3>Video hiếm: Người đi xe máy mải xem điện thoại đập mặt vào ô tô&nbsp;<i class="icon_video"></i></h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>21/03/2018 16:08</i>
+          </div> </a> </li> 
+        <li> <a href="/chuyen-la/ngoi-truong-pha-cach-uu-tien-niem-vui-cua-hoc-sinh-hon-diem-so-2018032113445486.htm" title="Ngôi trường &quot;phá cách&quot; ưu tiên niềm vui của học sinh hơn điểm số" data-type="0"> <h3>Ngôi trường "phá cách" ưu tiên niềm vui của học sinh hơn điểm số</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>21/03/2018 13:44</i>
+          </div> </a> </li> 
+        <li> <a href="/chuyen-la/tq-dang-di-bo-bong-thay-may-atm-phun-ra-12-trieu-dong-20180321104035616.htm" title="TQ: Đang đi bộ, bỗng thấy máy ATM “phun ra” 12 triệu đồng" data-type="0"> <h3>TQ: Đang đi bộ, bỗng thấy máy ATM “phun ra” 12 triệu đồng</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>21/03/2018 10:40</i>
+          </div> </a> </li> 
+       </ul> 
+      </div> 
+      <div class="ovh cath"> 
+       <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/doi-song.htm" title="Đời sống" style="color: #0067d8">Đời sống</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+       <div class="ovh cath-sub"> 
+        <ul class="fl"> 
+         <li><a href="/doi-song/cong-dong.htm" title="Cộng đồng">Cộng đồng</a></li> 
+         <li><a href="/doi-song/nha-dep.htm" title="Nhà đẹp">Nhà đẹp</a></li> 
+        </ul> 
+        <ul class="fr"> 
+         <li><a href="/doi-song/bep-ngon.htm" title="Bếp ngon">Bếp ngon</a></li> 
+         <li><a href="/doi-song/thuong-luu.htm" title="Thượng lưu">Thượng lưu</a></li> 
+        </ul> 
+       </div> 
+       <div class="ovh top1"> 
+        <a href="/doi-song/ao-danh-cho-cho-dat-nhat-moi-thoi-dai-hon-3-ty-dong-chiec-2018032122085869.htm" title="Áo dành cho chó đắt nhất mọi thời đại: Hơn 3 tỷ đồng/chiếc"> <img alt="Áo dành cho chó đắt nhất mọi thời đại: Hơn 3 tỷ đồng/chiếc" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/21/doggy-armour-gold-1521626619053783477137.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/21/doggy-armour-gold-1521626619053783477137.jpg"> <h3>Áo dành cho chó đắt nhất mọi thời đại: Hơn 3 tỷ đồng/chiếc</h3> </a> 
+        <div class="ovh time">
+         <span class="clock_ico">&nbsp;</span>&nbsp;
+         <i>22/03/2018 05:00</i>
+        </div> 
+       </div> 
+       <ul class="ovh top2"> 
+        <li> <a href="/doi-song/90-loi-khuyen-de-co-cuoc-hon-nhan-hanh-phuc-20180322072228975.htm" title="90 lời khuyên để có cuộc hôn nhân hạnh phúc" data-type="0"> <img alt="90 lời khuyên để có cuộc hôn nhân hạnh phúc" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/22/photo-6-15216779467851202782107.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/22/photo-6-15216779467851202782107.jpg"> <h3>90 lời khuyên để có cuộc hôn nhân hạnh phúc</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 07:21</i>
+          </div> </a> </li> 
+        <li> <a href="/doi-song/8-dau-hieu-pho-bien-cua-tre-tu-ki-moi-bo-me-can-biet-20180322071858097.htm" title="8 dấu hiệu phổ biến của trẻ tự kỉ mọi bố mẹ cần biết" data-type="0"> <img alt="8 dấu hiệu phổ biến của trẻ tự kỉ mọi bố mẹ cần biết" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/22/photo-3-15216776988391849413774.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/22/photo-3-15216776988391849413774.jpg"> <h3>8 dấu hiệu phổ biến của trẻ tự kỉ mọi bố mẹ cần biết</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 07:17</i>
+          </div> </a> </li> 
+        <li> <a href="/doi-song/nha-pho-co-hon-100-tuoi-gia-bac-ty-chu-khong-ban-vi-ly-do-dac-biet-20180322070740701.htm" title="Nhà phố cổ hơn 100 tuổi, giá bạc tỷ chủ không bán vì lý do đặc biệt" data-type="0"> <img alt="Nhà phố cổ hơn 100 tuổi, giá bạc tỷ chủ không bán vì lý do đặc biệt" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/22/can-nha-300-tuoi-o-pho-co-duoc-tra-gia-hang-chuc-ty-gia-chu-van-khong-ban-vi-ly-do-dac-biet-15216770010771869466119.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/22/can-nha-300-tuoi-o-pho-co-duoc-tra-gia-hang-chuc-ty-gia-chu-van-khong-ban-vi-ly-do-dac-biet-15216770010771869466119.jpg"> <h3>Nhà phố cổ hơn 100 tuổi, giá bạc tỷ chủ không bán vì lý do đặc biệt</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>22/03/2018 07:07</i>
+          </div> </a> </li> 
+       </ul> 
+      </div> 
+      <div class="ovh cath_blog"> 
+       <h2 class="cf cath_blog-head" style="border-bottom:solid 3px #0067d8"> <a href="/blog.htm" title="Blog" style="color: #0067d8">Blog</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+       <div class="ovh top1"> 
+        <a href="/blog/lam-nguoi-liem-chinh-kho-den-vay-sao-20180322040428328.htm" title="Làm người “liêm chính” khó đến vậy sao?"> <img alt="Làm người “liêm chính” khó đến vậy sao?" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/22/mliem-chinh-1521665992896591248852.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/22/mliem-chinh-1521665992896591248852.jpg"> <h3> <span class="fl comment"> <b data-id="20180322040428328" class="comment-count">0</b> <i>BÌNH LUẬN</i> </span> Làm người “liêm chính” khó đến vậy sao? </h3> </a> 
+        <div class="ovh time">
+         <span class="clock_ico">&nbsp;</span>&nbsp;Thứ 5, Ngày 22-03, Năm 2018
+        </div> 
+       </div> 
+       <ul class="ovh top2"> 
+        <li> <a href="/blog/mot-bai-toan-cu-va-co-ai-kho-nhu-the-khong-20180321023444406.htm" title="Một bài toán cũ và có ai khổ như thế không?"> <h3> <span class="fl comment"> <b data-id="20180321023444406" class="comment-count">0</b> <i>BÌNH LUẬN</i> </span> Một bài toán cũ và có ai khổ như thế không? </h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;Thứ 4, Ngày 21-03, Năm 2018
+          </div> </a> </li> 
+        <li> <a href="/blog/mot-phat-bieu-rat-hay-cua-bo-truong-tu-phap-20180320020135899.htm" title="Một phát biểu rất hay của Bộ trưởng Tư pháp"> <h3> <span class="fl comment"> <b data-id="20180320020135899" class="comment-count">0</b> <i>BÌNH LUẬN</i> </span> Một phát biểu rất hay của Bộ trưởng Tư pháp </h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;Thứ 3, Ngày 20-03, Năm 2018
+          </div> </a> </li> 
+        <li> <a href="/blog/chuyen-cau-be-ngheo-voi-goc-hong-co-o-son-la-20180319065836125.htm" title="Chuyện cậu bé nghèo với gốc hồng cổ ở Sơn La"> <h3> <span class="fl comment"> <b data-id="20180319065836125" class="comment-count">0</b> <i>BÌNH LUẬN</i> </span> Chuyện cậu bé nghèo với gốc hồng cổ ở Sơn La </h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;Thứ 2, Ngày 19-03, Năm 2018
+          </div> </a> </li> 
+       </ul> 
+      </div> 
+      <div class="ovh cath cath2"> 
+       <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/dien-dan.htm" title="Diễn đàn" style="color: #0067d8">Diễn đàn</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+       <div class="ovh cath-sub"> 
+        <ul class="fl"> 
+         <li><a href="/dien-dan/giao-duc.htm" title="Giáo dục">Giáo dục</a></li> 
+         <li><a href="/dien-dan/xa-hoi.htm" title="Xã hội">Xã hội</a></li> 
+        </ul> 
+        <ul class="fr"> 
+         <li><a href="/dien-dan/the-gioi.htm" title="Thế giới">Thế giới</a></li> 
+        </ul> 
+       </div> 
+       <div class="ovh top1"> 
+        <h3><a href="/dien-dan/qua-bieu-co-phai-la-dong-co-cua-cac-bi-cao-20180322002818795.htm" title="Quà biếu có phải là động cơ của các bị cáo?">Quà biếu có phải là động cơ của các bị cáo?</a></h3> 
+        <div class="ovh"> 
+         <a href="/dien-dan/qua-bieu-co-phai-la-dong-co-cua-cac-bi-cao-20180322002818795.htm"><img alt="Quà biếu có phải là động cơ của các bị cáo?" class="lazy" src="http://dantricdn.com/zoom/16_10/2018/3/22/dinh-la-thang-1521653122698379130020.jpg" data-src="http://dantricdn.com/zoom/160_100/2018/3/22/dinh-la-thang-1521653122698379130020.jpg"></a> 
+         <p class="collapse_txt">Đã là cố ý làm trái, các đối tượng phải có mục đích nào đó. Vậy, ngoài bị cáo Ninh ... </p> 
+        </div> 
+        <div class="ovh time">
+         <span class="clock_ico">&nbsp;</span>&nbsp;
+         <i>22/03/2018 07:00</i>
+        </div> 
+       </div> 
+       <ul class="ovh top2"> 
+        <li> <a href="/dien-dan/ha-noi-nhieu-van-de-dat-ra-sau-thanh-tra-du-an-lat-da-via-he-20180317210852772.htm" title="Hà Nội: Nhiều vấn đề đặt ra sau thanh tra dự án lát đá vỉa hè" data-type="0"> <h3>Hà Nội: Nhiều vấn đề đặt ra sau thanh tra dự án lát đá vỉa hè</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>21/03/2018 08:00</i>
+          </div> </a> </li> 
+        <li> <a href="/dien-dan/qua-ruong-dua-cho-buoc-day-giay-20180317210416677.htm" title="Qua ruộng dưa, chớ buộc dây giày" data-type="0"> <h3>Qua ruộng dưa, chớ buộc dây giày</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>20/03/2018 08:00</i>
+          </div> </a> </li> 
+        <li> <a href="/dien-dan/tran-tro-moi-quan-he-thay-tro-20180317205242074.htm" title="Trăn trở mối quan hệ thầy trò" data-type="0"> <h3>Trăn trở mối quan hệ thầy trò</h3> 
+          <div class="ovh time">
+           <span class="clock_ico">&nbsp;</span>&nbsp;
+           <i>19/03/2018 08:00</i>
+          </div> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <script type="text/javascript">
+        (runinit = window.runinit || []).push(function () {
+            regPushBackEvent('', 'a.mrk-click', '');
+            checkBackPagePosition('');
+            getListCommentCount('.cath_blog');
+        });
+    </script> 
+     <script type="text/javascript">
+                    (runinit = window.runinit || []).push(function () {
+                        checkLazyImages(0);
+                    });
+                </script> 
+    </div> 
+   </div> 
+   <div class="ovh footer_w"> 
+    <div class="foo_owner"> 
+     <div class="ovh slogan"> 
+      <span class="flogo">&nbsp;</span>&nbsp;
+      <span class="fl">DIỄN ĐÀN DÂN TRÍ VIỆT NAM</span> 
+     </div> 
+     <div class="ovh address"> 
+      <p style="font:normal 10px/1.3 arial;text-transform:uppercase"><b>Cơ Quan của TW Hội Khuyến Học Việt Nam</b></p> 
+      <p>Chịu trách nhiệm nội dung: Tổng biên tập Phạm Huy Hoàn</p> 
+      <p>Giấy phép hoạt động báo điện tử Dân trí trên Internet sô 378/GP -</p> 
+      <p>BTTTT Hà Nội, ngày 16-09-2013.</p> 
+      <p>Tòa soạn: Số 2 (nhà 48) Giảng Võ, Quận Đống Đa, Hà Nội</p> 
+      <p>Điện thoại: 024-3736-6491. Fax: 024-3736-6490</p> 
+      <p>Email: <a href="mailto:info@dantri.com.vn" style="display: inline-block;color: #91979f;">info@dantri.com.vn</a>. Website: <a href="http://www.dantri.com.vn" style="display: inline-block;color: #91979f;">http://www.dantri.com.vn</a></p> 
+      <p>Hỗ trợ quảng cáo : <a href="tel:+84942861133" rel="nofollow" style="color: #91979f;display: initial">0942.86.11.33</a></p> 
+      <div class="ovh hotline"> 
+       <span class="phone_ico">&nbsp;</span>&nbsp;&nbsp;ĐƯỜNG DÂY NÓNG: 
+       <span>0973 567 567 - 0974 567 567</span> 
+      </div> 
+      <p> <a href="http://www.vccorp.vn/" class="fl" rel="nofollow" target="_blank"><img width="70" alt="Vận hành bởi VCCorp" src="http://dantricdn.com/mob_images/vccorp-m.png"></a> <a href="javascript:void(0)" onclick="redirectToWeb()" rel="nofollow" class="desktop_ico">&nbsp;</a> </p> 
+     </div> 
+    </div> 
+   </div> 
+   <script type="text/javascript">
+    function redirectToWeb() {
+        var path = window.location.pathname;
+        window.location.href = "http://dantri.com.vn/handlers/redirect.ashx?mobile=true&url=" + path;
+    }
+</script> 
+  </div> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript> 
+   <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NQQ7DVS" height="0" width="0" style="display: none; visibility: hidden"></iframe> 
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) -->   
+  <!-- cache page 08:20:27 22/03/2018-->
+ </body>
+</html>
