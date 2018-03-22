@@ -34,121 +34,34 @@
 	</dependencies>
 
 
+
+
 	<build>
-		<pluginManagement>
-			<plugins>
-				<plugin>
-					<groupId>org.apache.maven.plugins</groupId>
-					<artifactId>maven-compiler-plugin</artifactId>
-					<version>2.3.1</version>
-					<configuration>
-						<source>1.7</source>
-						<target>1.7</target>
-					</configuration>
-				</plugin>
-			</plugins>
-		</pluginManagement>
 		<plugins>
 			<plugin>
-				<artifactId>maven-resources-plugin</artifactId>
-				<version>2.6</version>
-				<executions>
-					<execution>
-						<id>copy-resources</id>
-						<phase>validate</phase>
-						<goals>
-							<goal>copy-resources</goal>
-						</goals>
-						<configuration>
-							<outputDirectory>${basedir}/target/Jsoup</outputDirectory>
-							<resources>
-								<resource>
-									<directory>resources</directory>
-									<filtering>true</filtering>
-								</resource>
-							</resources>
-						</configuration>
-					</execution>
-				</executions>
-			</plugin>
-			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-dependency-plugin</artifactId>
-				<executions>
-					<execution>
-						<id>copy-dependencies</id>
-						<phase>prepare-package</phase>
-						<goals>
-							<goal>copy-dependencies</goal>
-						</goals>
-						<configuration>
-							<outputDirectory>${project.build.directory}/Jsoup/lib</outputDirectory>
-							<overWriteReleases>false</overWriteReleases>
-							<overWriteSnapshots>false</overWriteSnapshots>
-							<overWriteIfNewer>true</overWriteIfNewer>
-						</configuration>
-					</execution>
-				</executions>
-			</plugin>
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-jar-plugin</artifactId>
-				<configuration>
+				<artifactId>maven-assembly-plugin</artifactId>
+				<version>2.4.1</version>
+				<configuration> <!-- get all project dependencies -->
+					<descriptorRefs>
+						<descriptorRef>jar-with-dependencies</descriptorRef>
+					</descriptorRefs> <!-- MainClass in mainfest make a executable jar -->
 					<archive>
 						<manifest>
-							<addClasspath>true</addClasspath>
-							<classpathPrefix>lib/</classpathPrefix>
 							<mainClass>Main.App</mainClass>
 						</manifest>
-						<manifestEntries>
-							<Class-Path>.</Class-Path>
-						</manifestEntries>
 					</archive>
-
-					<finalName>Jsoup/Jsoup</finalName>
 				</configuration>
+				<executions>
+					<execution>
+						<id>make-assembly</id> <!-- bind to the packaging phase -->
+						<phase>package</phase>
+						<goals>
+							<goal>single</goal>
+						</goals>
+					</execution>
+				</executions>
 			</plugin>
 		</plugins>
 	</build>
-
-
-
-
-	<!-- <build> -->
-	<!-- <plugins> -->
-	<!-- <plugin> -->
-	<!-- <artifactId>maven-compiler-plugin</artifactId> -->
-	<!-- <version>3.1</version> -->
-
-	<!-- <configuration> -->
-	<!-- <archive> -->
-	<!-- <manifest> -->
-	<!-- <addClasspath>true</addClasspath> -->
-	<!-- <classpathPrefix>lib/</classpathPrefix> -->
-	<!-- <mainClass>Main.App</mainClass> -->
-	<!-- </manifest> -->
-	<!-- <descriptorRefs> -->
-	<!-- <descriptorRef>jar-with-dependencies</descriptorRef> -->
-	<!-- </descriptorRefs> -->
-	<!-- </archive> -->
-	<!-- <source>1.8</source> -->
-	<!-- <target>1.8</target> -->
-	<!-- </configuration> -->
-
-	<!-- </plugin> -->
-	<!-- <plugin> -->
-	<!-- <groupId>org.apache.maven.plugins</groupId> -->
-	<!-- <artifactId>maven-jar-plugin</artifactId> -->
-	<!-- <configuration> -->
-	<!-- <archive> -->
-	<!-- <manifest> -->
-	<!-- <addClasspath>true</addClasspath> -->
-	<!-- <classpathPrefix>lib/</classpathPrefix> -->
-	<!-- <mainClass>Main.App</mainClass> -->
-	<!-- </manifest> -->
-	<!-- </archive> -->
-	<!-- </configuration> -->
-	<!-- </plugin> -->
-	<!-- </plugins> -->
-	<!-- </build> -->
 </project>

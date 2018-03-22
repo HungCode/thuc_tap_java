@@ -20,7 +20,7 @@ public class Jsoup1 {
 		System.out.println(time);
 		System.out.println(ZonedDateTime.now());
 
-		File f = new File("E:\\Study\\thuc_tap_java\\Thuc_hanh_tool\\test-bai2\\resources\\output\\" + time + ".txt");
+		File f = new File("E:\\Study\\thuc_tap_java\\Thuc_hanh_tool\\jsoup\\" + time + ".txt");
 		BufferedWriter writer;
 		try {
 			writer = new BufferedWriter(new FileWriter(f, true));

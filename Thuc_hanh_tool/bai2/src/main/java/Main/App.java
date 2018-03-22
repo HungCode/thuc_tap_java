@@ -18,7 +18,6 @@ public class App {
 
 		String time = ZonedDateTime.now().getHour() + "." + ZonedDateTime.now().getMinute() + "."
 				+ ZonedDateTime.now().getSecond();
-		System.out.println(time);
 		System.out.println(ZonedDateTime.now());
 
 		File f = new File("E:\\Study\\thuc_tap_java\\Thuc_hanh_tool\\bai2\\resources\\output\\" + time + ".txt");

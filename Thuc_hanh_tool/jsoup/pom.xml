@@ -10,11 +10,6 @@
 			<artifactId>jsoup</artifactId>
 			<version>1.9.1</version>
 		</dependency>
-		<dependency>
-			<groupId>org.apache.maven.plugins</groupId>
-			<artifactId>maven-jar-plugin</artifactId>
-			<version>3.0.2</version>
-		</dependency>
 	</dependencies>
 	<build>
 		<plugins>
@@ -28,7 +23,7 @@
 					</descriptorRefs> <!-- MainClass in mainfest make a executable jar -->
 					<archive>
 						<manifest>
-							<mainClass>com.vc.jsoup.Jsoup1</mainClass>
+							<mainClass>jsoup.Jsoup1</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
