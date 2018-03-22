@@ -1,0 +1,7 @@
+#!/bin/sh
+
+while(true)
+do 
+	java -jar "/home/hung/thuc_tap_java/Thuc_hanh_tool/bai2/target/bai2-0.0.1-SNAPSHOT-jar-with-dependencies.jar";
+	sleep 5;
+done
