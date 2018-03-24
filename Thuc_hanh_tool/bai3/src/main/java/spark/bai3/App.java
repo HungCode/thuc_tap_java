@@ -43,12 +43,13 @@ public class App {
 		return kq;
 	}
 	public static void main(String[] args) {
-		System.out.println(so_nguyen_to(100));
+//		System.out.println(so_nguyen_to(100));
 
 		get("/prime", (req, res) -> {
 			int Max = Integer.parseInt(req.queryParams("q"));
 			System.out.println(Max);
-			return so_nguyen_to(Max);
+			ArrayList<Integer> arr = so_nguyen_to(Max);
+			return arr;
 		});
 	}
 }

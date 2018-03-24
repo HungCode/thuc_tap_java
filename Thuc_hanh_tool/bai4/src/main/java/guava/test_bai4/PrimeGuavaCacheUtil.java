@@ -10,7 +10,7 @@ import com.google.common.cache.LoadingCache;
 public class PrimeGuavaCacheUtil {
 	private static LoadingCache<Integer, ArrayList<Integer>> primeCache;
 	static {
-		primeCache = CacheBuilder.newBuilder().maximumSize(100).expireAfterWrite(10, TimeUnit.MINUTES)
+		primeCache = CacheBuilder.newBuilder().maximumSize(100).expireAfterWrite(10, TimeUnit.SECONDS)
 				.build(new CacheLoader<Integer, ArrayList<Integer>>() {
 					@Override
 					public ArrayList<Integer> load(Integer i) throws Exception {
